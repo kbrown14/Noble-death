@@ -9,7 +9,7 @@ const CORPUS = [
     "tradition": "Second Temple Jewish",
     "period": "Composed c. 2nd–1st c. BCE",
     "setting": "Seleucid persecution of Judea under Antiochus IV, c. 167 BCE",
-    "deathMode": "Execution",
+    "deathMode": "Manner unstated",
     "originalLanguage": "Greek",
     "settingYear": -167,
     "compositionYear": -110,
@@ -17,13 +17,12 @@ const CORPUS = [
     "translationEn": "1. It also happened that seven brothers, together with their mother, were arrested and were being compelled by the king, under torture with whips and cords, to partake of unlawful swine's flesh. 2. One of them, acting as their spokesman, said: \"What do you intend to ask and learn from us? For we are ready to die rather than transgress our ancestral laws.\" 3. Enraged, the king ordered pans and cauldrons to be heated. 4. And when these had at once been heated through, he commanded that the one of them who had become their spokesman have his tongue cut out, and that they scalp him and cut off his hands and feet, while the rest of the brothers and the mother looked on. 5. And when he was utterly maimed, he ordered him to be brought to the fire still breathing, and to be fried in the pan. And as the pan gave off its vapor for a long while, they exhorted one another, together with the mother, to die nobly, saying as follows: 6. \"The Lord God is watching over us, and in truth is moved with compassion for us, just as Moses made clear in the song that bears witness against the people to their faces, saying: 'And he will have compassion on his servants.'\"\n\n[… 2 Macc. 7:7–19 omitted—the torture and deaths of the second through sixth brothers …]\n\n20. But the mother was surpassingly good and worthy of good memory, who, watching seven sons perish within the span of a single day, bore it with good courage because of her hopes set on the Lord. 21. And she exhorted each of the men in the ancestral tongue, filled with noble spirit, and, rousing her woman's reasoning with a man's courage, said to them: 22. \"I do not know how you came to appear in my womb; it was not I who gave you spirit and life, nor was it I who arranged the elements of each of you. 23. Therefore the creator of the world, who shaped the birth of man and devised the origin of all things, gives back to you again, in his mercy, spirit and life, since you now disregard yourselves for the sake of his laws.\" 24. But Antiochus, thinking himself despised, and suspecting her reproachful tone, while the youngest was still alive, urged him not only with words, but also gave assurance with oaths that he would make him rich and enviable if he turned away from the ways of his ancestors, and that he would have him as a friend and entrust him with public affairs. 25. But since the young man paid no attention at all, the king summoned the mother and urged her to become an advisor to the boy, for his safety. 26. And when he had urged her at length, she agreed to persuade her son. 27. But leaning close to him, mocking the cruel tyrant, she spoke thus in the ancestral tongue: \"Son, have pity on me, who carried you nine months in the womb, and nursed you for three years, and reared you, and brought you up to this age, and sustained you. 28. I beg you, child, look up at the heaven and the earth, see everything that is in them, and recognize that God did not make them out of things that existed, and that the human race comes into being in the same way. 29. Do not fear this executioner, but, proving yourself worthy of your brothers, accept death, so that, in his mercy, I may receive you back together with your brothers.\"\n\n[… 2 Macc. 7:30–38 omitted—the seventh brother's own speech, torture, and death …]\n\n39. Then the king, filled with rage, treated this one worse than the others, bitterly angered at the mockery. 40. And so this one also died in purity, wholly trusting in the Lord. 41. And last of all the sons, the mother died.",
     "originalText": "1 Συνέβη δὲ καὶ ἑπτὰ ἀδελφοὺς μετὰ τῆς μητρὸς συλλημφθέντας ἀναγκάζεσθαι ὑπὸ τοῦ βασιλέως ἀπὸ τῶν ἀθεμίτων ὑείων κρεῶν ἐφάπτεσθαι, μάστιξιν καὶ νευραῖς αἰκιζομένους. 2 εἷς δὲ αὐτῶν γενόμενος προήγορος εἶπεν Μέλλεις ἐρωτᾶν καὶ μανθάνειν ἡμῶν; ἕτοιμοι γὰρ ἀποθνήσκειν ἐσμὲν ἢ πατρῴους νόμους παραβαίνειν. 3 ἔκθυμος δὲ γενόμενος ὁ βασιλεὺς προσέταξεν τήγανα καὶ λέβητας ἐκπυροῦν. 4 τῶν δὲ παραχρῆμα ἐκπυρωθέντων, τὸν γενόμενον αὐτῶν προήγορον προσέταξεν γλωσσοτομεῖν, καὶ περισκυθίσαντας ἀκρωτηριάζειν, τῶν λοιπῶν ἀδελφῶν καὶ τῆς μητρὸς συνορώντων. 5 ἄχρηστον δὲ αὐτὸν τοῖς λοιποῖς γενόμενον ἐκέλευσεν τῇ πυρᾷ προσάγειν ἔνπνουν καὶ τηγανίζειν. τῆς δὲ ἀτμίδος ἐφ’ ἱκανὸν διδούσης τοῦ τηγάνου ἀλλήλους παρεκάλουν σὺν τῇ μητρὶ γενναίως τελευτᾶν, λέγοντες οὕτως 6 Ὁ κύριος ὁ θεὸς ἐφορᾷ, καὶ ταῖς ἀληθείαις ἐφ’ ἡμῖν παρακαλεῖται, καθάπερ διὰ τῆς κατὰ πρόσωπον ἀντιμαρτυρούσης ᾠδῆς διεσάφησεν Μωσῆς, λέγων Καὶ ἐπὶ τοῖς δούλοις αὐτοῦ παρακληθήσεται.\n\n[… 2 Macc. 7:7–19 omitted—the torture and deaths of the second through sixth brothers …]\n\n20 Ὑπεραγόντως δὲ ἡ μήτηρ ἀγαθὴ καὶ μνήμης ἀγαθῆς ἀξία, ἥτις ἀπολλυμένους υἱοὺς ἑπτὰ συνορῶσα μιᾶς ὑπὸ καιρὸν ἡμέρας εὐψύχως ἔφερεν διὰ τὰς ἐπὶ Κύριον ἐλπίδας. 21 ἕκαστον δὲ τῶν ἀνθρώπων παρεκάλει τῇ πατρίῳ φωνῇ, γενναίῳ πεπληρωμένη φρονήματι καὶ τὸν θῆλυν λογισμὸν ἄρσενι θυμῷ διεγείρασα, λέγουσα πρὸς αὐτοὺς 22 Οὐκ οἶδ’ ὅπως εἰς τὴν ἐμὴν ἐφάνητε κοιλίαν, οὐδὲ ἐγὼ τὸ πνεῦμα καὶ τὴν ζωὴν ὑμῖν ἐχαρισάμην, καὶ τὴν ἑκάστου στοιχείωσιν οὐκ ἐγὼ διερύθμισα. 23 τοιγαροῦν ὁ τοῦ κόσμου κτίστης, ὁ πλάσας ἀνθρώπου γένεσιν καὶ πάντων ἐξευρὼν γένεσιν, καὶ τὸ πνεῦμα καὶ τὴν ζωὴν ὑμῖν πάλιν ἀποδίδωσιν μετ’ ἐλέους, ὡς νῦν ὑπερορᾶτε ἑαυτοὺς διὰ τοὺς αὐτοῦ νόμους. 24 Ὁ δὲ Ἀντίοχος οἰόμενος καταφρονεῖσθαι καὶ τὴν ὀνειδίζουσαν ὑφορώμενος φωνήν, ἔτι τοῦ νεωτέρου περιόντος, οὐ μόνον διὰ λόγων ἐποιεῖτο τὴν παράκλησιν, ἀλλὰ καὶ δι’ ὅρκων ἐπίστου ἅμα πλουτιεῖν καὶ μακαριστὸν ποιήσειν καὶ μεταθέμενον ἀπὸ τῶν πατρίων, καὶ φίλον ἕξειν καὶ χρείας ἐμπιστεύσειν. 25 τοῦ δὲ νεανίου μηδαμῶς προσέχοντος, προσκαλεσάμενος ὁ βασιλεὺς τὴν μητέρα παρῄνει γενέσθαι τοῦ μειρακίου σύμβουλον ἐπὶ σωτηρίᾳ. 26 πολλὰ δὲ αὐτοῦ παραινέσαντος, ἐπεδέξατο πείσειν τὸν υἱόν. 27 προσκύψασα δὲ αὐτῷ, χλευάσασα τὸν ὠμὸν τύραννον, οὕτως ἔφησεν τῇ πατρίῳ φωνῇ Υἱέ, ἐλέησόν με τὴν ἐν γαστρὶ περιενέγκασάν σε μῆνας ἐννέα, καὶ θηλάσασάν σε ἔτη τρία, καὶ ἐκθρέψασάν σε καὶ ἀγαγοῦσαν εἰς τὴν ἡλικίαν ταύτην καὶ τροφοφορήσασαν. 28 ἀξιῶ σε, τέκνον, ἀναβλέψαντα εἰς τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὰ ἐν αὐτοῖς πάντα ἰδόντα γνῶναι, ὅτι οὐκ ἐξ ὄντων ἐποίησεν αὐτὰ ὁ θεός, καὶ τὸ τῶν ἀνθρώπων γένος οὕτω γίνεται. 29 μὴ φοβηθῇς τὸν δήμιον τοῦτον, ἀλλὰ τῶν ἀδελφῶν σου ἄξιος γενόμενος ἐπίδεξαι τὸν θάνατον, ἵνα ἐν τῷ ἐλέει σὺν τοῖς ἀδελφοῖς σου κομίσωμαί σε.\n\n[… 2 Macc. 7:30–38 omitted—the seventh brother's own speech, torture, and death …]\n\n39 ἔκθυμος δὲ γενόμενος ὁ βασιλεὺς τούτῳ παρὰ τοὺς ἄλλους χειρίστως ἀπήντησεν, πικρῶς φέρων ἐπὶ τῷ μυκτηρισμῷ. 40 καὶ οὗτος οὖν καθαρῶς μετήλλαξεν, παντελῶς ἐπὶ τῷ κυρίῳ πεποιθώς. 41 ἐσχάτη δὲ τῶν υἱῶν ἡ μήτηρ ἐτελεύτησεν.",
     "tags": [
-      "motherhood",
+      "mother",
       "dietary law",
       "maternal virtue",
       "collective death",
       "torture",
       "maternal exhortation",
-      "witnessed death",
       "ancestral law",
       "family death",
       "piety",
@@ -35,12 +34,14 @@ const CORPUS = [
       "courage",
       "spectacle",
       "resolve",
-      "execution"
+      "martyr narrative",
+      "Second Temple Judaism",
+      "masculinity",
+      "immortality"
     ],
     "genre": "Martyr narrative",
     "storyGroup": "maccabean-mother",
     "authorityChallenged": "Antiochus IV / Seleucid persecution",
-    "agency": "High",
     "witnesses": "Six brothers, the king and court",
     "sourceLink": "https://www.ellopos.net/elpenor/greek-texts/septuagint/chapter.asp?book=22"
   },
@@ -67,7 +68,7 @@ const CORPUS = [
       "royal cruelty",
       "maternal exhortation",
       "witnessed death",
-      "motherhood",
+      "mother",
       "piety",
       "reason vs. passion",
       "maternal love",
@@ -77,7 +78,7 @@ const CORPUS = [
       "Akedah",
       "immortality",
       "posthumous vindication",
-      "athleticism",
+      "athletic imagery",
       "spectacle",
       "family death",
       "courage",
@@ -86,12 +87,16 @@ const CORPUS = [
       "endurance",
       "lament",
       "resolve",
-      "male inadequacy"
+      "male inadequacy",
+      "Second Temple Judaism",
+      "suicide",
+      "honor vs. shame",
+      "disputed tradition",
+      "martyr narrative"
     ],
     "genre": "Philosophical treatise",
     "storyGroup": "maccabean-mother",
     "authorityChallenged": "Antiochus IV / Seleucid persecution",
-    "agency": "High",
     "witnesses": "Sons, the king and court",
     "sourceLink": "https://sacred-texts.com/bib/sep/ma4014.htm"
   },
@@ -130,12 +135,12 @@ const CORPUS = [
       "Roman Republic",
       "tyranny",
       "posthumous vindication",
-      "resolve"
+      "resolve",
+      "final plea"
     ],
     "genre": "Historiography",
     "storyGroup": "lucretia",
     "authorityChallenged": "Tarquin monarchy",
-    "agency": "High",
     "witnesses": "Husband, father, Brutus",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0169%3Abook%3D1%3Achapter%3D58"
   },
@@ -172,12 +177,12 @@ const CORPUS = [
       "lament",
       "ancestral law",
       "feminine virtue",
-      "resolve"
+      "resolve",
+      "daughter"
     ],
     "genre": "Biblical rewriting",
     "storyGroup": "jephthahs-daughter",
     "authorityChallenged": "Jephthah's vow",
-    "agency": "High",
     "witnesses": "Companion maidens"
   },
   {
@@ -200,18 +205,21 @@ const CORPUS = [
       "daughter",
       "vow",
       "virginity",
-      "Akedah",
       "final plea",
       "compounded marginality",
       "paternal authority",
       "youth",
-      "filial devotion"
+      "filial devotion",
+      "historiography",
+      "Second Temple Judaism",
+      "voluntary death",
+      "ancestral law",
+      "lament"
     ],
     "textEdition": "Text: Benedict Niese, ed., Flavii Iosephi Opera, Berlin: Weidmann, 1887–1895 (as digitized by Perseus)",
     "genre": "Historiography",
     "storyGroup": "jephthahs-daughter",
     "authorityChallenged": "Jephthah's vow",
-    "agency": "Medium",
     "witnesses": "Unspecified",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145"
   },
@@ -240,7 +248,7 @@ const CORPUS = [
       "courage",
       "reason vs. passion",
       "dagger",
-      "motherhood",
+      "mother",
       "endurance",
       "tyranny",
       "family death",
@@ -249,12 +257,14 @@ const CORPUS = [
       "loyalty",
       "composure",
       "male inadequacy",
-      "stoicism"
+      "stoicism",
+      "wife",
+      "witnessed death",
+      "maternal love"
     ],
     "genre": "Letter",
     "storyGroup": "arria",
     "authorityChallenged": "Claudian regime",
-    "agency": "High",
     "witnesses": "Paetus",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Ep.+3.16"
   },
@@ -282,13 +292,13 @@ const CORPUS = [
       "loyalty",
       "Civil War",
       "stoicism",
-      "suicide"
+      "suicide",
+      "wife"
     ],
     "textEdition": "Greek text: Bernadotte Perrin, ed., Plutarch's Lives, Loeb Classical Library (as digitized by Perseus)",
     "genre": "Biography",
     "storyGroup": "porcia",
     "authorityChallenged": "Triumviral regime",
-    "agency": "Medium",
     "witnesses": "Friends/attendants (disputed)",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0085"
   },
@@ -319,13 +329,13 @@ const CORPUS = [
       "historiography",
       "Civil War",
       "final plea",
-      "suicide"
+      "suicide",
+      "witnessed death"
     ],
     "textEdition": "Greek text: Bernadotte Perrin, ed., Plutarch's Lives, Loeb Classical Library (as digitized by Perseus)",
     "genre": "Biography",
     "storyGroup": "cleopatra",
     "authorityChallenged": "Augustan/Octavian conquest",
-    "agency": "High",
     "witnesses": "Iras, Charmion",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0077%3Achapter%3D85"
   },
@@ -348,15 +358,20 @@ const CORPUS = [
     "tags": [
       "execution",
       "composure",
-      "compounded marginality",
       "honor vs. shame",
       "royal dignity",
       "tyranny",
-      "elite failure"
+      "elite failure",
+      "daughter",
+      "wife",
+      "historiography",
+      "Second Temple Judaism",
+      "witnessed death",
+      "loyalty",
+      "modesty"
     ],
     "genre": "Historiography",
     "authorityChallenged": "Herodian rule",
-    "agency": "Low",
     "witnesses": "Herod's court",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145"
   },
@@ -395,12 +410,13 @@ const CORPUS = [
       "final plea",
       "compounded marginality",
       "male inadequacy",
-      "modesty"
+      "modesty",
+      "death vs. captivity",
+      "courage"
     ],
     "textEdition": "Text: Hugo Magnus, ed., Gotha: Friedr. Andr. Perthes, 1892 (Latin text as digitized by Perseus). At 13.471 this text reads non captiva, with most modern editions, where Magnus prints nunc captiva",
     "genre": "Epic",
     "authorityChallenged": "Greek conquerors",
-    "agency": "High",
     "witnesses": "Neoptolemus, assembled Greeks",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0029:book=13"
   },
@@ -433,12 +449,15 @@ const CORPUS = [
       "historiography",
       "compounded marginality",
       "resolve",
-      "male inadequacy"
+      "male inadequacy",
+      "freedwoman",
+      "witnessed death",
+      "prison",
+      "exemplarity"
     ],
     "textEdition": "Text: Charles Dennis Fisher, ed., Oxford: Clarendon Press, 1906 (as digitized by Perseus)",
     "genre": "Historiography",
     "authorityChallenged": "Neronian regime",
-    "agency": "High",
     "witnesses": "Torturers, guards",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0077%3Abook%3D15%3Achapter%3D51"
   },
@@ -459,21 +478,20 @@ const CORPUS = [
     "translationEn": "For two women were brought up on a charge of having circumcised their children; and, having hung the infants from their mothers' breasts, they led them publicly around the city, and then threw them down from the wall.",
     "originalText": "δύο γὰρ γυναῖκες ἀνήχθησαν περιτετμηκυῖαι τὰ τέκνα· τούτων δὲ ἐκ τῶν μαστῶν κρεμάσαντες τὰ βρέφη, καὶ δημοσίᾳ περιαγαγόντες αὐτὰς τὴν πόλιν, κατὰ τοῦ τείχους ἐκρήμνισαν.",
     "tags": [
-      "compounded marginality",
       "execution",
       "Second Temple Judaism",
       "spectacle",
       "collective death",
       "ancestral law",
       "witnessed death",
-      "motherhood",
+      "mother",
       "family death",
       "tyranny",
-      "royal cruelty"
+      "royal cruelty",
+      "martyr narrative"
     ],
     "genre": "Martyr narrative",
     "authorityChallenged": "Antiochus IV / Seleucid persecution",
-    "agency": "Low",
     "witnesses": "The public (city)",
     "sourceLink": "https://www.ellopos.net/elpenor/greek-texts/septuagint/chapter.asp?book=22"
   },
@@ -514,12 +532,13 @@ const CORPUS = [
       "feminine virtue",
       "modesty",
       "resolve",
-      "suicide"
+      "suicide",
+      "final plea",
+      "spectacle"
     ],
     "genre": "Elegy",
     "storyGroup": "lucretia",
     "authorityChallenged": "Tarquin monarchy",
-    "agency": "High",
     "witnesses": "Husband, father, Brutus",
     "sourceLink": "https://www.mqdq.it/testo/testo/ordinata/pf719373"
   },
@@ -546,13 +565,15 @@ const CORPUS = [
       "dagger",
       "chastity",
       "resolve",
-      "suicide"
+      "suicide",
+      "wife",
+      "witnessed death",
+      "family death"
     ],
     "textEdition": "Text: W. Heraeus, ed. (rev. J. Borovskij), Leipzig: Teubner, 1925/1976 (as digitized by Perseus)",
     "genre": "Epigram",
     "storyGroup": "arria",
     "authorityChallenged": "Claudian regime",
-    "agency": "High",
     "witnesses": "Paetus",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0506"
   },
@@ -590,7 +611,6 @@ const CORPUS = [
     "genre": "Exemplum literature",
     "storyGroup": "porcia",
     "authorityChallenged": "Triumviral regime",
-    "agency": "High",
     "witnesses": "Unspecified",
     "sourceLink": "https://latin.packhum.org/loc/1038/1/0#0"
   },
@@ -622,12 +642,12 @@ const CORPUS = [
       "resolve",
       "death vs. captivity",
       "masculinity",
-      "foreign queen"
+      "foreign queen",
+      "poetry"
     ],
     "genre": "Lyric poetry",
     "storyGroup": "cleopatra",
     "authorityChallenged": "Augustan/Octavian conquest",
-    "agency": "High",
     "witnesses": "Unspecified (poetic address)",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0024%3Abook%3D1%3Apoem%3D37"
   },
@@ -660,12 +680,13 @@ const CORPUS = [
       "witnessed death",
       "final plea",
       "daughter",
-      "suicide"
+      "suicide",
+      "wife",
+      "historiography"
     ],
     "genre": "Historiography",
     "storyGroup": "lucretia",
     "authorityChallenged": "Tarquin monarchy",
-    "agency": "High",
     "witnesses": "Father, kinsmen, Brutus",
     "sourceLink": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0572"
   },
@@ -689,7 +710,7 @@ const CORPUS = [
       "martyr narrative",
       "first-person diary",
       "prison",
-      "motherhood",
+      "mother",
       "paternal authority",
       "visions",
       "gladiatorial combat",
@@ -702,19 +723,28 @@ const CORPUS = [
       "resolve",
       "courage",
       "modesty",
-      "execution"
+      "execution",
+      "athletic imagery",
+      "maternal separation",
+      "wife",
+      "collective death",
+      "daughter",
+      "youth",
+      "endurance",
+      "maternal love",
+      "immortality",
+      "well-born"
     ],
     "genre": "Martyr narrative",
     "storyGroup": "perpetua",
     "authorityChallenged": "Roman persecution under Septimius Severus",
-    "agency": "High",
     "witnesses": "Amphitheater crowd at Carthage, fellow prisoners, her father",
     "sourceLink": "https://www.thelatinlibrary.com/perp.html"
   },
   {
     "id": "felicitas",
     "author": "Passio Perpetuae (redactor's frame)",
-    "ref": "Passio Sanctarum Perpetuae et Felicitatis 15, 18, 20–21",
+    "ref": "Passio Sanctarum Perpetuae et Felicitatis 2, 15, 18, 20–21",
     "textEdition": "Text: J. Armitage Robinson, ed., The Passion of S. Perpetua (Texts and Studies 1.2), Cambridge: Cambridge University Press, 1891 (public domain; digitized by Open Greek and Latin, CC BY-SA 4.0, with OCR errors corrected)",
     "title": "The Martyrdom of Felicitas",
     "tradition": "Early Christian",
@@ -725,12 +755,12 @@ const CORPUS = [
     "settingYear": 203,
     "compositionYear": 203,
     "summary": "An enslaved woman, eight months pregnant when arrested, fears above all that her execution will be postponed on her pregnancy's account and that she will die later, alone, among strangers, rather than with her companions now. Three days before the games her fellow martyrs pray with her for an early birth; she gives birth to a daughter in prison, retorts to a mocking guard that another will suffer in her at the moment of her death, and faces the same heifer as Perpetua in the arena—though the text, unlike with Perpetua and Saturus, never narrates her own death individually. She is folded, at the end, into 'the rest,' who die in silence.",
-    "translationEn": "15. As for Felicitas, the Lord's grace came to her in this way: she was eight months pregnant when arrested, and as the day of the games drew near she fell into great distress, afraid her execution would be postponed on her pregnancy's account, since the law forbids punishing a pregnant woman publicly, and that she would later have to shed her holy, innocent blood among common criminals. Her fellow martyrs, too, were grieved at the thought of leaving so good a companion behind, alone on the same road to the same hope. So, three days before the games, they joined their voices and poured out a single prayer to the Lord. Her labor began immediately afterward. She suffered greatly, as is natural in an eight-month birth, and while she was groaning in labor one of the prison guards said to her, \"If you are in such pain now, what will you do when you are thrown to the beasts—which you scorned when you refused to sacrifice?\" And she answered, \"Now I suffer what I suffer. But there, another will be inside me who will suffer for me—because I, too, am about to suffer for him.\" And so she gave birth to a daughter, whom a Christian sister raised as her own.\n\n18. [From the shared procession into the amphitheater:] Felicitas likewise rejoiced that she had given birth safely and could now fight the beasts—passing, as she was, from one shedding of blood to another, from the midwife to the net-fighter, ready to wash herself after childbirth in a second baptism.\n\n20. For the young women, the devil had prepared a particularly savage heifer—chosen, against custom, for this purpose alone, so that even in the beast their sex would be matched. They were stripped, dressed in nets, and led out. The crowd shuddered to see one a delicate young girl, the other, fresh from childbirth, still dripping milk from her breasts. So they were called back and dressed in loose tunics. Perpetua was sent in first. She was tossed and fell on her back; and when she sat up, she pulled her tunic, torn open at the side, across to cover her thigh, thinking of her modesty before her pain. Then, asking for a pin, she fastened up her disheveled hair—it is not fitting for a martyr to die with loose hair, lest she seem to be in mourning in the very moment of her glory. She got up, and seeing Felicitas thrown down, went to her, gave her a hand, and helped her up. The two of them stood together, and, the crowd's hardness now overcome, they were called back to the Gate of Life. There Perpetua was received by a man named Rusticus, then a catechumen, who stayed close by her; she seemed to wake as though from sleep—so deep had her trance and rapture been—and looked around, saying, to everyone's astonishment, \"I do not know when we are to be led out to that heifer.\" When told what had already happened to her, she would not believe it until she saw the marks of injury on her own body and clothes. Then she called for her brother and this same catechumen and said to them: \"Stand firm in the faith, and love one another, all of you—and do not let what we suffer be a stumbling-block to you.\"\n\n21. [Felicitas's own death is not narrated individually: only Saturus and Perpetua are named at the moment of the sword. The single clause that includes her is given here.] ... The rest, without moving and in silence, received the sword.",
-    "originalText": "[15] Circa Felicitatem uero, et illi gratia Domini eiusmodi contigit. cum octo iam mensium uentrem haberet, (nam praegnans fuerat adprehensa) instante spectaculi die, in magno erat luctu, ne propter uentrem differretur; quia non licet praegnantes poenae repraesentari: et ne inter alios postea sceleratos sanctum et innocentem sanguinem funderet. sed et commartyres grauiter contristabantur, ne tam bonam sociam quasi comitem solam in uia eiusdem spei relinquerent. coniuncto itaque unito gemitu ad Dominum orationem fuderunt ante tertium diem muneris. statim post orationem dolores inuaserunt. et cum pro naturali difficultate octaui mensis in partu laborans doleret, ait illi quidam ex ministris cataractariorum: Quae sic modo doles, quid facies obiecta bestiis, quas contempsisti cum sacrificare noluisti? et illa respondit: Modo ego patior quod patior; illic autem alius erit in me qui patietur pro me, quia et ego pro illo passura sum. ita enixa est puellam, quam sibi quaedam soror in filiam educauit.\n\n[18] ... item Felicitas, saluam se peperisse gaudens ut ad bestias pugnaret, a sanguine ad sanguinem, ab obstetrice ad retiarium, lotura post partum baptismo secundo.\n\n[20] Puellis autem ferocissimam uaccam, ideoque praeter consuetudinem comparatam, diabolus praeparauit: sexui earum etiam de bestia aemulatus. itaque dispoliatae et reticulis indutae producebantur. horruit populus, alteram respiciens puellam delicatam, alteram a partu recentem stillantibus mammis. ita reuocatae et discinctis indutae. prior Perpetua iactata est, et concidit in lumbos. et ubi sedit tunicam a latere discissam ad uelamentum femoris reduxit, pudoris potius memor quam doloris. dehinc acu requisita, et dispersos capillos infibulauit. non enim decebat martyram sparsis capillis pati, ne in sua gloria plangere uideretur. ita surrexit, et elisam Felicitatem cum uidisset accessit, et manum ei tradidit et suscitauit illam. et ambae pariter steterunt, et populi duritia deuicta reuocatae sunt in portam Sanauiuariam. illic Perpetua a quodam tunc catechumino, Rustico nomine, qui ei adhaerebat, suscepta, et quasi a somno expergita (adeo in Spiritu et in extasi fuerat) circumspicere coepit, et instupentibus omnibus ait: Quando, inquit, producimur ad uaccam illam, nescio. et cum audisset quod iam euenerat, non prius credidit, nisi quasdam notas uexationis in corpore et habitu suo recognouisset. exinde accersitum fratrem suum et illum catechuminum adlocuta est, dicens; In fide state, et inuicem omnes diligite; et passionibus nostris ne scandalizemini.\n\n[21] [...] ceteri quidem inmobiles, et cum silentio ferrum receperunt.",
+    "translationEn": "2. The young catechumens Revocatus and his fellow slave Felicitas, Saturninus and Secundulus, were arrested. [The rest of ch. 2 introduces Perpetua; chs. 3–14 are omitted.]\n\n15. As for Felicitas, the Lord's grace came to her in this way: she was eight months pregnant when arrested, and as the day of the games drew near she fell into great distress, afraid her execution would be postponed on her pregnancy's account, since the law forbids punishing a pregnant woman publicly, and that she would later have to shed her holy, innocent blood among common criminals. Her fellow martyrs, too, were grieved at the thought of leaving so good a companion behind, alone on the same road to the same hope. So, three days before the games, they joined their voices and poured out a single prayer to the Lord. Her labor began immediately afterward. She suffered greatly, as is natural in an eight-month birth, and while she was groaning in labor one of the prison guards said to her, \"If you are in such pain now, what will you do when you are thrown to the beasts—which you scorned when you refused to sacrifice?\" And she answered, \"Now I suffer what I suffer. But there, another will be inside me who will suffer for me—because I, too, am about to suffer for him.\" And so she gave birth to a daughter, whom a Christian sister raised as her own.\n\n18. [From the shared procession into the amphitheater:] Felicitas likewise rejoiced that she had given birth safely and could now fight the beasts—passing, as she was, from one shedding of blood to another, from the midwife to the net-fighter, ready to wash herself after childbirth in a second baptism.\n\n20. For the young women, the devil had prepared a particularly savage heifer—chosen, against custom, for this purpose alone, so that even in the beast their sex would be matched. They were stripped, dressed in nets, and led out. The crowd shuddered to see one a delicate young girl, the other, fresh from childbirth, still dripping milk from her breasts. So they were called back and dressed in loose tunics. Perpetua was sent in first. She was tossed and fell on her back; and when she sat up, she pulled her tunic, torn open at the side, across to cover her thigh, thinking of her modesty before her pain. Then, asking for a pin, she fastened up her disheveled hair—it is not fitting for a martyr to die with loose hair, lest she seem to be in mourning in the very moment of her glory. She got up, and seeing Felicitas thrown down, went to her, gave her a hand, and helped her up. The two of them stood together, and, the crowd's hardness now overcome, they were called back to the Gate of Life. There Perpetua was received by a man named Rusticus, then a catechumen, who stayed close by her; she seemed to wake as though from sleep—so deep had her trance and rapture been—and looked around, saying, to everyone's astonishment, \"I do not know when we are to be led out to that heifer.\" When told what had already happened to her, she would not believe it until she saw the marks of injury on her own body and clothes. Then she called for her brother and this same catechumen and said to them: \"Stand firm in the faith, and love one another, all of you—and do not let what we suffer be a stumbling-block to you.\"\n\n21. [Felicitas's own death is not narrated individually: only Saturus and Perpetua are named at the moment of the sword. The single clause that includes her is given here.] ... The rest, without moving and in silence, received the sword.",
+    "originalText": "[2] Apprehensi sunt adolescentes catechumini, Reuocatus et Felicitas conserua eius, Saturninus et Secundulus. ...\n\n[15] Circa Felicitatem uero, et illi gratia Domini eiusmodi contigit. cum octo iam mensium uentrem haberet, (nam praegnans fuerat adprehensa) instante spectaculi die, in magno erat luctu, ne propter uentrem differretur; quia non licet praegnantes poenae repraesentari: et ne inter alios postea sceleratos sanctum et innocentem sanguinem funderet. sed et commartyres grauiter contristabantur, ne tam bonam sociam quasi comitem solam in uia eiusdem spei relinquerent. coniuncto itaque unito gemitu ad Dominum orationem fuderunt ante tertium diem muneris. statim post orationem dolores inuaserunt. et cum pro naturali difficultate octaui mensis in partu laborans doleret, ait illi quidam ex ministris cataractariorum: Quae sic modo doles, quid facies obiecta bestiis, quas contempsisti cum sacrificare noluisti? et illa respondit: Modo ego patior quod patior; illic autem alius erit in me qui patietur pro me, quia et ego pro illo passura sum. ita enixa est puellam, quam sibi quaedam soror in filiam educauit.\n\n[18] ... item Felicitas, saluam se peperisse gaudens ut ad bestias pugnaret, a sanguine ad sanguinem, ab obstetrice ad retiarium, lotura post partum baptismo secundo.\n\n[20] Puellis autem ferocissimam uaccam, ideoque praeter consuetudinem comparatam, diabolus praeparauit: sexui earum etiam de bestia aemulatus. itaque dispoliatae et reticulis indutae producebantur. horruit populus, alteram respiciens puellam delicatam, alteram a partu recentem stillantibus mammis. ita reuocatae et discinctis indutae. prior Perpetua iactata est, et concidit in lumbos. et ubi sedit tunicam a latere discissam ad uelamentum femoris reduxit, pudoris potius memor quam doloris. dehinc acu requisita, et dispersos capillos infibulauit. non enim decebat martyram sparsis capillis pati, ne in sua gloria plangere uideretur. ita surrexit, et elisam Felicitatem cum uidisset accessit, et manum ei tradidit et suscitauit illam. et ambae pariter steterunt, et populi duritia deuicta reuocatae sunt in portam Sanauiuariam. illic Perpetua a quodam tunc catechumino, Rustico nomine, qui ei adhaerebat, suscepta, et quasi a somno expergita (adeo in Spiritu et in extasi fuerat) circumspicere coepit, et instupentibus omnibus ait: Quando, inquit, producimur ad uaccam illam, nescio. et cum audisset quod iam euenerat, non prius credidit, nisi quasdam notas uexationis in corpore et habitu suo recognouisset. exinde accersitum fratrem suum et illum catechuminum adlocuta est, dicens; In fide state, et inuicem omnes diligite; et passionibus nostris ne scandalizemini.\n\n[21] [...] ceteri quidem inmobiles, et cum silentio ferrum receperunt.",
     "tags": [
-      "slavery",
+      "enslaved woman",
       "childbirth",
-      "motherhood",
+      "mother",
       "witnessed death",
       "spectacle",
       "feminine virtue",
@@ -739,12 +769,18 @@ const CORPUS = [
       "composure",
       "compounded marginality",
       "collective death",
-      "execution"
+      "execution",
+      "maternal separation",
+      "prison",
+      "martyr narrative",
+      "voluntary death",
+      "imitation of Christ",
+      "gladiatorial combat",
+      "endurance"
     ],
     "genre": "Martyr narrative",
     "storyGroup": "felicitas",
     "authorityChallenged": "Roman persecution under Septimius Severus",
-    "agency": "Medium",
     "witnesses": "Fellow prisoners, prison guards, amphitheater crowd at Carthage",
     "sourceLink": "https://www.thelatinlibrary.com/perp.html"
   },
@@ -765,7 +801,7 @@ const CORPUS = [
     "translationEn": "1.1–4. Gaul, then, was the country in which the arena for these events was set. Its renowned chief cities, celebrated above the others there, are Lyons and Vienne, and the river Rhone passes through both of them, flowing in a broad stream through the whole region. The most distinguished churches there sent their account of the martyrs to the churches in Asia and Phrygia, recording what had happened among them in this way; I shall set down their own words: \"The servants of Christ living in Vienne and Lyons, in Gaul, to the brothers throughout Asia and Phrygia who hold the same faith and hope of redemption as we do: peace, grace, and glory from God the Father and Christ Jesus our Lord.\" Then, after some further preliminaries, they begin their account with these words: \"The scale of what we suffered here, the full fury the pagans turned against the saints, everything the blessed witnesses endured, we are not equal to describing accurately, nor could any document really contain it.\"\n\n1.5–8. For the adversary fell upon us with all his strength, already giving us a foretaste of his coming, which is soon to be unrestrained. He went through everything, training his own and drilling them in advance against the servants of God, so that we were not only barred from houses and baths and the marketplace, but any of us was forbidden to appear at all, in any place whatever. But the grace of God led the counter-attack: it rescued the weak, and drew up against him firm pillars, able through their endurance to draw the whole onslaught of the evil one upon themselves. These closed with him, bearing every kind of reproach and punishment; counting much as little, they hastened toward Christ, showing in truth that \"the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.\" First they nobly endured everything heaped on them by the whole mob together: shouting, blows, dragging, plundering, stoning, imprisonment, and everything an enraged crowd tends to do to adversaries and enemies. Then they were brought up into the forum by the tribune and the city's presiding authorities, examined before the whole populace, and, having confessed, were shut up in prison until the governor's arrival.\n\n1.9–10. Afterward they were brought before the governor, and he treated us with every cruelty. Then Vettius Epagathus, one of the brothers, who had attained the fullness of love toward God and his neighbor—whose way of life had been so exact that, young as he was, he was held to equal the reputation of the aged Zacharias; for he had walked in all the commandments and ordinances of the Lord blameless, and was untiring in every service to his neighbor, having great zeal for God and burning in spirit—being such a man, could not bear the judgment so irrationally passed against us, but was overcome with indignation, and asked to be heard himself in defense of the brothers, to show that there is nothing godless or impious among us. Those around the tribunal shouted him down, for he was a man of note, and the governor would not allow the just request he had put forward, but only asked whether he too was a Christian. When he confessed it in the clearest of voices, he too was taken up into the ranks of the martyrs. He was called \"the Christians' advocate,\" but he had the Advocate within himself, the Spirit of Zacharias, which he showed through the fullness of his love, being content to lay down even his own life in defense of the brothers. For he was, and is, a true disciple of Christ, \"following the Lamb wherever he goes.\"\n\n1.11–13. From then on the rest were sifted. Some were plainly ready to be the first martyrs, and fulfilled the confession of witness with all eagerness; but those who were unready and untrained and still weak, unable to bear the strain of a great contest, also became evident. About ten of these miscarried, as it were, and fell away. They caused us great grief and immeasurable mourning, and checked the eagerness of the others who had not been arrested—who, though they suffered every terrible thing, nevertheless stayed with the martyrs and did not leave them. Then all of us were greatly alarmed at the uncertainty of their confession, not fearing the punishments being inflicted, but looking to the end, and afraid that someone might fall away. Yet every day those who were worthy were arrested, filling up the number of the others, so that all the zealous members of the two churches, through whom affairs here had chiefly been sustained, were gathered in.\n\n1.14–15. Some pagan household slaves of ours were arrested as well, since the governor had publicly ordered that all of us be sought out. Through the snare of Satan, afraid of the tortures they saw the saints suffering, and with the soldiers urging them on to it, they falsely accused us of Thyestean feasts and Oedipodean intercourse, and of things it is not right for us to speak of or think of, or even to believe that anything of the kind has ever happened among human beings. When these rumors spread, everyone turned savage toward us, so that even those who had earlier been moderate on account of close ties were now violently angry and gnashed their teeth at us. And so was fulfilled what was spoken by our Lord: \"the time will come when whoever kills you will think he is offering worship to God.\"\n\n1.16–17. From this point the holy martyrs endured torments beyond any description, Satan straining to wring some blasphemy out of them by any means he could. But the whole weight of the crowd's fury—and the governor's, and the soldiers'—fell above all on Sanctus, the deacon from Vienne; on Maturus, a recent convert but already a formidable combatant; on Attalus, a Pergamene by birth, who had always been a pillar and foundation of the church here; and on Blandina—through whom Christ showed that what looks cheap, ugly, and contemptible to men is, with God, judged worthy of great glory, on account of a love for him shown in strength and not paraded in appearance.\n\n1.18–19. For while all of us were afraid, and her mistress according to the flesh—who was herself one of the contending martyrs—was anxious that because of her bodily weakness Blandina would not even be able to make her confession boldly, Blandina was filled with such power that those who tortured her in relays, in every way, from morning until evening, grew weary and gave up. They admitted that they were beaten, having nothing left that they could do to her, and marveled that she was still breathing, her whole body torn apart and laid open; and they testified that a single kind of torture was enough to drive out the soul, let alone so many and so severe. But the blessed woman, like a noble athlete, was renewed in her confession; and her refreshment, her rest, and her freedom from pain in what was done to her was to say: \"I am a Christian, and nothing wicked happens among us.\"\n\n1.20–21. Sanctus, too, nobly endured all the outrages men could inflict, beyond all measure and beyond any human being. The lawless hoped that, through the persistence and severity of the tortures, they would hear something improper from him; but he set himself against them with such firmness that he would not even state his own name, or his people, or the city he came from, or whether he was slave or free. To every question he answered in Latin: \"I am a Christian.\" This he confessed over and over, in place of name, city, race, and everything else, and the pagans heard no other word from him. For this reason the governor and the torturers became bitterly determined to defeat him, so that, when they had nothing left to do to him, they finally pressed red-hot bronze plates against the most tender parts of his body.\n\n1.22–24. These parts of him were burning, but he himself remained unbending and unyielding, firm in his confession, bedewed and strengthened by the heavenly spring of the water of life that flows from the belly of Christ. His poor body was a witness to what had happened: all one wound and bruise, contracted, stripped of outward human form. Christ, suffering in him, accomplished great glories, bringing the adversary to nothing and showing, as an example for the rest, that nothing is fearful where the Father's love is, and nothing painful where Christ's glory is. For some days later the lawless men racked the martyr again, thinking that if they applied the same tortures while his body was swollen and inflamed they would get the better of him, since he could not bear even the touch of a hand—or else that by dying under torture he would strike fear into the rest. Not only did nothing of the kind happen to him, but, beyond all human expectation, his poor body lifted itself up and straightened under the later tortures, and recovered its former appearance and the use of its limbs, so that, through the grace of Christ, the second racking became for him not a punishment but a cure.\n\n1.25–26. Biblis, too, was one of those who had denied. The devil thought he had already swallowed her down, and wanted to condemn her through blasphemy as well, so he brought her to torture, to force her to say godless things about us, as one already fragile and cowardly. But on the rack she came to her senses and woke, so to speak, out of a deep sleep, reminded by the temporary punishment of the eternal punishment in Gehenna; and she contradicted the blasphemers to their faces, saying, \"How could such people eat children, when they are not allowed to eat even the blood of irrational animals?\" From then on she confessed herself a Christian, and was added to the ranks of the martyrs.\n\n1.27–28. When the tyrants' tortures had been brought to nothing by Christ through the endurance of the blessed ones, the devil devised other contrivances: confinement in the darkest and most dreadful part of the prison, the stretching of the feet in the stocks to the fifth hole, and all the other outrages that enraged attendants, full of the devil besides, are accustomed to inflict on prisoners. As a result most of them were suffocated in the prison—those, that is, whom the Lord wished to depart in this way, displaying his glory. For some, who had been tortured so cruelly that it seemed they could not live even with every care, survived in the prison, deprived of human attention but restored by the Lord and strengthened in body and soul, rousing and comforting the rest; while the young ones, newly arrested, whose bodies had not already been abused, could not bear the burden of confinement, but died inside.\n\n1.29–31. The blessed Pothinus, who had been entrusted with the ministry of the episcopate in Lyons, was over ninety years of age and very weak in body, scarcely breathing because of his bodily infirmity, but strengthened by eagerness of spirit through his burning desire for martyrdom. He too was dragged before the tribunal, his body undone by both age and disease, but his soul preserved in him so that through it Christ might triumph. Brought to the tribunal by the soldiers, escorted by the civic authorities and the whole populace, who raised every kind of shout at him as though he were Christ himself, he gave the good testimony. When the governor asked him who the Christians' god was, he said, \"If you are worthy, you will know.\" Thereupon he was dragged about without mercy and suffered blows of every kind: those near at hand abused him in every way with hands and feet, showing no respect even for his age, while those farther off hurled at him whatever each had to hand, all of them thinking it a great offense and impiety if anyone fell short in his outrage against him; for they supposed that in this way they would avenge their gods. Barely breathing, he was thrown into prison, and two days later he breathed his last.\n\n1.32–35. Then a great dispensation of God took place, and the immeasurable mercy of Jesus was revealed, in a way rarely seen in the brotherhood, but not beyond the skill of Christ. For those who had denied at the first arrest were imprisoned too, and shared in the terrible sufferings; even at this point their denial was of no use to them. Those who admitted what they were, Christians, were imprisoned as such, with no other charge brought against them; but these were now held as murderers and defiled men, punished twice over compared with the rest. For the joy of martyrdom, the hope of what had been promised, love for Christ, and the Spirit of the Father lightened the burden of the first; but the second were grievously punished by their own conscience, so that as they passed by, their faces set them apart from all the rest. The first went out joyful, glory and great grace mingled in their faces, so that even their chains lay about them like a becoming ornament, as on a bride adorned with embroidered golden fringes; and they were fragrant with the sweet odor of Christ, so that some thought they had been anointed with worldly perfume. The others were downcast, humbled, unsightly, and full of every disgrace, mocked besides by the pagans as ignoble and unmanly, bearing the charge of murderers and having lost the all-honored, glorious, and life-giving name. Seeing this, the rest were strengthened, and those who were arrested confessed without hesitation, without even a thought of the devil's reasoning.\n\n1.36. After some intervening remarks, they continue: After this, then, the testimonies of their departure took every form. For they wove a single crown out of different colors and flowers of every kind and offered it to the Father; and so it was fitting that the noble athletes, having endured a varied contest and won a great victory, should receive the great crown of incorruption.\n\n1.37–40. Maturus, Sanctus, Blandina, and Attalus were led to the beasts in the public arena, as a common spectacle of pagan inhumanity, a day of beast-fights having been granted specially on account of our people. Maturus and Sanctus went again through every torment in the amphitheater, as though they had suffered nothing at all before—or rather, as though they had already overcome the adversary in many bouts and were now contending for the crown itself. Once more they endured the gauntlet of whips customary there, the mauling of the beasts, and everything the maddened people, shouting from every side, called for and demanded, and last of all the iron chair, on which their roasting bodies glutted the spectators with their reek. Even so the crowd did not let up, but raged all the more, wanting to overcome their endurance; and even so they heard nothing from Sanctus but the words of confession he had been in the habit of saying from the beginning. So these two, their life having held out a long time through a great contest, were at last sacrificed, having been made, through that whole day, a spectacle to the world in place of all the variety of the gladiatorial shows.\n\n1.41–42. Blandina was hung on a stake and exposed as food for the beasts let loose against her. Because she was seen hanging in the form of a cross, and through her earnest prayer, she put great eagerness into those contending; for in the contest, with their outward eyes, they saw in their sister the one who was crucified for them, so that he might persuade those who believe in him that everyone who suffers for the glory of Christ has fellowship forever with the living God. When none of the beasts touched her then, she was taken down from the stake and returned to prison, kept for another contest, so that, victorious through further bouts, she might make the condemnation of the crooked serpent irrevocable and encourage the brothers—she, small and weak and despised, who had put on Christ, the great and invincible athlete, and had overcome the adversary in many bouts and through the contest won the crown of incorruption.\n\n1.43–44. Attalus too was loudly demanded by the crowd, for he was well known. He entered ready for the contest because of his clear conscience, since he had been genuinely trained in the Christian discipline and had always been a witness to the truth among us. He was led around the amphitheater with a placard carried before him on which was written in Latin, \"This is Attalus the Christian,\" while the people swelled with fury against him. But the governor, learning that he was a Roman, ordered him taken back with the rest of those in prison, about whom he had written to Caesar and was awaiting his decision.\n\n1.45–48. The intervening time was not idle or fruitless for them; rather, through their endurance the immeasurable mercy of Christ was revealed. For through the living the dead were brought back to life, and martyrs showed grace to those who were not martyrs, and there was great joy for the virgin mother, who received back alive those she had miscarried as dead. Through them most of those who had denied were brought back, conceived again, rekindled, and learned to confess; and now living and braced, they came up to the tribunal—God, who does not desire the death of the sinner but is kind toward repentance, making it sweet for them—so that they might be questioned again by the governor. For Caesar had written that they should be beaten to death, but that any who denied should be released. As the festival here was beginning (it is very crowded, with people from all the nations gathering for it), the governor brought the blessed ones up to the tribunal, making a theatrical show of them and parading them before the crowds. So he examined them again, and beheaded those who seemed to hold Roman citizenship, and sent the rest to the beasts. And Christ was greatly glorified in those who had previously denied, since they now confessed, contrary to the pagans' expectation. For these were examined separately, as though they were going to be released; but they confessed, and were added to the ranks of the martyrs. Those who remained outside were the ones who had never had any trace of faith, nor any sense of the wedding garment, nor any thought of the fear of God, but who through their way of life blasphemed the Way—that is, the sons of perdition. All the rest were added to the Church.\n\n1.49–51. While these were being examined, a certain Alexander—a Phrygian by birth and a physician by profession, who had lived many years in the Gallic provinces and was known to almost everyone for his love of God and his boldness of speech (for he was not without a share in the apostolic gift)—stood beside the tribunal, urging them on to confession by signs, and it was plain to those standing around the tribunal that he was, as it were, in labor for them. The crowds, angered that those who had previously denied were confessing again, shouted against Alexander as the one responsible. The governor turned to him and asked who he was; when he said, \"A Christian,\" the governor, in a rage, condemned him to the beasts. The next day he went in together with Attalus; for the governor, to please the crowd, had handed Attalus over to the beasts again. They went through every instrument devised in the amphitheater for punishment, and, having endured the greatest contest, were themselves at last sacrificed—Alexander neither groaning nor uttering any sound at all, but conversing with God in his heart;\n\n1.52. When Attalus was set in the iron seat and the smoke began rising off his own burning flesh, he said to the crowd, in Latin: \"Look—this, what you are doing, is eating men. We do not eat men, and we do nothing else wicked either.\" Asked what name his god went by, he answered, \"God does not have a name, the way a man does.\"\n\n1.53–55. Last of all, on the final day of the games, Blandina was brought in again, together with Ponticus, a boy of about fifteen. Both had been made to watch the others suffer every day beforehand, and pressed each time to swear by the idols; and because neither would yield, the crowd turned on them with no pity for the boy's youth and no respect for the woman. They subjected them to every terror and put them through the whole round of torments, trying again and again to force them to swear, but unable to do so. Ponticus, urged on by his sister—so plainly that even the pagans could see she was encouraging and strengthening him—nobly endured every torment and gave up his spirit. Last of all came the blessed Blandina. Like a noble mother who has cheered her children on and sent them ahead of her in triumph to their king, she went through every one of their sufferings in turn, hurrying after them, rejoicing and exulting at her departure, as if she had been invited to a wedding feast and not thrown to wild animals.\n\n1.56. And after the whips, after the beasts, after the griddle, she was at last thrown into a net and set before a bull. Tossed about at length by the animal, no longer aware of what was happening because of her hope and her hold on what she believed, and her converse with Christ, she too was sacrificed—the pagans themselves admitting that never among them had a woman suffered so much, or so terribly.\n\n1.57–58. But not even so were their madness and cruelty toward the saints satisfied. For wild and barbarous tribes, stirred up by a wild beast, were hard to stop, and their outrage took a new and peculiar turn against the bodies of the dead. That they had been defeated did not shame them, since they had no human power of reflection; rather it inflamed their anger, as a beast's, the governor and the people displaying the same unjust hatred toward us, so that the scripture might be fulfilled: \"Let the lawless be lawless still, and the righteous be righteous still.\"\n\n1.59–61. For they threw those who had been suffocated in the prison to the dogs, keeping careful watch night and day so that none of them might be buried by us. And then they exposed what the beasts and the fire had left, some of it torn, some charred, and the heads of the rest together with their severed trunks, and guarded them likewise unburied, with military care, for many days. Some raged and gnashed their teeth at them, seeking some further vengeance on them; others laughed and jeered, magnifying their idols and crediting them with the punishment of these people; while the more moderate, who seemed to feel some measure of sympathy, reproached them severely, saying, \"Where is their god, and what good did their religion do them, which they preferred even to their own lives?\" Such was the variety of behavior on their side; but on ours there was great grief, because we could not bury the bodies in the earth. Night did not help us; money did not persuade, nor entreaty move them; they kept watch in every way, as though they would gain something great if the bodies went unburied.\n\n1.62–63. Next, after other matters, they say: So the bodies of the martyrs, after being made an example of in every way and exposed to the open air for six days, were then burned and reduced to ashes by the lawless men and swept into the Rhone, which flows close by, so that not even a remnant of them might still appear on the earth. And they did this as though they could conquer God and take away their rebirth, \"so that,\" as they said, \"they may not even have hope of a resurrection, trusting in which they bring in a strange and new religion among us, and despise terrible things, going readily and with joy to their death. Now let us see whether they will rise again, and whether their god can help them and rescue them out of our hands.\"",
     "originalText": "[5.1.1–4] Γαλλία μὲν οὖν ἡ χώρα ἦν, καθ’ ἣν τὸ τῶν δηλουμένων συνεκροτεῖτο στάδιον, ἧς μητροπόλεις ἐπίσημοι καὶ παρὰ τὰς ἄλλας τῶν αὐτόθι διαφέρουσαι βεβόηνται Λούγδουνος καὶ Βίεννα, δι’ ὧν ἀμφοτέρων τὴν ἅπασαν χώραν πολλῷ τῷ ῥεύματι περιρρέων ὁ Ῥοδανὸς ποταμὸς διέξεισιν. τὴν οὖν περὶ τῶν μαρτύρων γραφὴν αἱ τῇδε διαφανέσταται ἐκκλησίαι ταῖς κατὰ τὴν Ἀσίαν καὶ Φρυγίαν διαπέμπονται, τὰ παρ’ αὐταῖς πραχθέντα τοῦτον ἀνιστοροῦσαι τὸν τρόπον, παραθήσομαι δὲ τὰς αὐτῶν φωνάς· οἱ ἐν Βιέννῃ καὶ Λουγδούνῳ τῆς Γαλλίας παροικοῦντες δοῦλοι Χριστοῦ τοῖς κατὰ τὴν Ἀσίαν καὶ Φρυγίαν τὴν αὐτὴν τῆς ἀπολυτρώσεως ἡμῖν πίστιν καὶ ἐλπίδα ἔχουσιν ἀδελφοῖς· εἰρήνη καὶ χάρις καὶ δόξα ἀπὸ θεοῦ πατρὸς καὶ Χριστοῦ Ἰησοῦ τοῦ κυρίου ἡμῶν. Εἶτα τούτοις ἑξῆς ἕτερα προοιμιασάμενοι, τὴν τοῦ λόγου καταρχὴν ποιοῦνται ἐν τούτοις· τὸ μὲν οὖν μέγεθος τῆς ἐνθάδε θλίψεως καὶ τὴν τοσαύτην τῶν ἐθνῶν εἰς τοὺς ἁγίους ὀργὴν καὶ ὅσα ὑπέμειναν οἱ μακάριοι μάρτυρες, ἐπ’ ἀκριβὲς οὔθ’ ἡμεῖς εἰπεῖν ἱκανοὶ οὔτε μὴν γραφῇ περιληφθῆναι δυνατόν.\n\n[5.1.5–8] παντὶ γὰρ σθένει ἐνέσκηψεν ὁ ἀντικείμενος, προοιμιαζόμενος ἤδη τὴν ἀδεῶς μέλλουσαν ἔσεσθαι παρουσίαν αὐτοῦ, καὶ διὰ πάντων διῆλθεν, ἐθίζων τοὺς ἑαυτοῦ καὶ προγυμνάζων κατὰ τῶν δούλων τοῦ θεοῦ, ὥστε μὴ μόνον οἰκιῶν καὶ βαλανείων καὶ ἀγορᾶς εἴργεσθαι, ἀλλὰ καὶ τὸ καθόλου φαίνεσθαι ἡμῶν τινα αὐτοῖς ἀπειρῆσθαι ἐν ὁποίῳ δήποτε τόπῳ. ἀντεστρατήγει δὲ ἡ χάρις τοῦ θεοῦ, καὶ τοὺς μὲν ἀσθενεῖς ἐρρύετο, ἀντιπαρέτασσε δὲ στύλους ἑδραίους δυναμένους διὰ τῆς ὑπομονῆς πᾶσαν τὴν ὁρμὴν τοῦ πονηροῦ εἰς ἑαυτοὺς ἑλκύσαι· οἳ καὶ ὁμόσε ἐχώρουν, πᾶν εἶδος ὀνειδισμοῦ καὶ κολάσεως ἀνεχόμενοι· οἳ καὶ τὰ πολλὰ ὀλίγα ἡγούμενοι ἔσπευδον πρὸς Χριστόν, ὄντως ἐπιδεικνύμενοι ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς. Καὶ πρῶτον μὲν τὰ ἀπὸ τοῦ ὄχλου πανδημεὶ σωρηδὸν ἐπιφερόμενα γενναίως ὑπέμενον, ἐπιβοήσεις καὶ πληγὰς καὶ συρμοὺς καὶ διαρπαγὰς καὶ λίθων βολὰς καὶ συγκλείσεις καὶ πάνθ’ ὅσα ἠγριωμένῳ πλήθει ὡς πρὸς ἐχθροὺς καὶ πολεμίους φιλεῖ γίνεσθαι, καὶ δὴ ἀναχθέντες εἰς τὴν ἀγορὰν ὑπό τε τοῦ χιλιάρχου καὶ τῶν προεστηκότων τῆς πόλεως ἐξουσιῶν ἐπὶ παντὸς τοῦ πλήθους ἀνακριθέντες καὶ ὁμολογήσαντες, συνεκλείσθησαν εἰς τὴν εἱρκτὴν ἕως τῆς τοῦ ἡγεμόνος παρουσίας·\n\n[5.1.9–10] μετέπειτα δὲ ἐπὶ τὸν ἡγεμόνα ἀχθέντων αὐτῶν κἀκείνου πάσῃ τῇ πρὸς ἡμᾶς ὠμότητι χρωμένου, Οὐέττιος Ἐπάγαθος, εἷς ἐκ τῶν ἀδελφῶν, πλήρωμα ἀγάπης τῆς πρὸς τὸν θεὸν καὶ πρὸς τὸν πλησίον κεχωρηκώς, οὗ καὶ ἐπὶ τοσοῦτον ἠκρίβωτο ἡ πολιτεία, ὡς καίπερ ὄντα νέον συνεξισοῦσθαι τῇ τοῦ πρεσβυτέρου Ζαχαρίου μαρτυρίᾳ· πεπόρευτο γοῦν ἐν πάσαις ταῖς ἐντολαῖς καὶ δικαιώμασι τοῦ κυρίου ἄμεμπτος καὶ πάσῃ τῇ πρὸς τὸν πλησίον λειτουργίᾳ ἄοκνος, ζῆλον θεοῦ πολὺν ἔχων καὶ ζέων τῷ πνεύματι· τοιοῦτος δή τις ὤν, τὴν οὕτως καθ’ ἡμῶν ἀλόγως γινομένην κρίσιν οὐκ ἐβάστασεν, ἀλλ’ ὑπερηγανάκτησεν καὶ ἠξίου καὶ αὐτὸς ἀκουσθῆναι ἀπολογούμενος ὑπὲρ τῶν ἀδελφῶν ὅτι μηδὲν ἄθεον μηδὲ ἀσεβές ἐστιν ἐν ἡμῖν. τῶν δὲ περὶ τὸ βῆμα καταβοησάντων αὐτοῦ, καὶ γὰρ ἦν ἐπίσημος, καὶ τοῦ ἡγεμόνος μὴ ἀνασχομένου τῆς οὕτως ὑπ’ αὐτοῦ δικαίας προταθείσης ἀξιώσεως, ἀλλὰ μόνον τοῦτο πυθομένου εἰ καὶ αὐτὸς εἴη Χριστιανός, τοῦ δὲ λαμπροτάτῃ φωνῇ ὁμολογήσαντος, ἀνελήφθη καὶ αὐτὸς εἰς τὸν κλῆρον τῶν μαρτύρων, παράκλητος Χριστιανῶν χρηματίσας, ἔχων δὲ τὸν παράκλητον ἐν ἑαυτῷ, τὸ πνεῦμα τοῦ Ζαχαρίου, ὃ διὰ τοῦ πληρώματος τῆς ἀγάπης ἐνεδείξατο, εὐδοκήσας ὑπὲρ τῆς τῶν ἀδελφῶν ἀπολογίας καὶ τὴν ἑαυτοῦ θεῖναι ψυχήν· ἦν γὰρ καὶ ἔστιν γνήσιος Χριστοῦ μαθητής, ἀκολουθῶν τῷ ἀρνίῳ ὅπου ἂν ὑπάγῃ.\n\n[5.1.11–13] Ἐντεῦθεν δὴ διεκρίνοντο οἱ λοιποί, καὶ φανεροὶ καὶ ἕτοιμοι ἐγίνοντο πρωτομάρτυρες, οἳ καὶ μετὰ πάσης προθυμίας ἀνεπλήρουν τὴν ὁμολογίαν τῆς μαρτυρίας, ἐφαίνοντο δὲ καὶ οἱ ἀνέτοιμοι καὶ ἀγύμναστοι καὶ ἔτι ἀσθενεῖς, ἀγῶνος μεγάλου τόνον ἐνεγκεῖν μὴ δυνάμενοι· ὧν καὶ ἐξέτρωσαν ὡς δέκα τὸν ἀριθμόν· οἳ καὶ μεγάλην λύπην καὶ πένθος ἀμέτρητον ἐνεποίησαν ἡμῖν καὶ τὴν προθυμίαν τῶν λοιπῶν τῶν μὴ συνειλημμένων ἐνέκοψαν· οἳ καίπερ πάντα τὰ δεινὰ πάσχοντες, ὅμως συμπαρῆσαν τοῖς μάρτυσιν καὶ οὐκ ἀπελείποντο αὐτῶν, τότε δὲ οἱ πάντες μεγάλως ἐπτοήθημεν διὰ τὸ ἄδηλον τῆς ὁμολογίας, οὐ τὰς ἐπιφερομένας κολάσεις φοβούμενοι, ἀλλὰ τὸ τέλος ἀφορῶντες καὶ τὸ ἀποπεσεῖν τινα δεδιότες. συνελαμβάνοντο μέντοι καθ’ ἑκάστην ἡμέραν οἱ ἄξιοι τὸν ἐκείνων ἀναπληροῦντες ἀριθμόν, ὥστε συλλεγῆναι ἐκ τῶν δύο ἐκκλησιῶν πάντας τοὺς σπουδαίους καὶ δι’ ὧν μάλιστα συνεστήκει τὰ ἐνθάδε·\n\n[5.1.14–15] συνελαμβάνοντο δὲ καὶ ἐθνικοί τινες οἰκέται τῶν ἡμετέρων, ἐπεὶ δημοσίᾳ ἐκέλευσεν ὁ ἡγεμὼν ἀναζητεῖσθαι πάντας ἡμᾶς· οἳ καὶ κατ’ ἐνέδραν τοῦ σατανᾶ, φοβηθέντες τὰς βασάνους ἃς τοὺς ἁγίους ἔβλεπον πάσχοντας, τῶν στρατιωτῶν ἐπὶ τοῦτο παρορμώντων αὐτούς, κατεψεύσαντο ἡμῶν Θυέστεια δεῖπνα καὶ Οἰδιποδείους μίξεις καὶ ὅσα μήτε λαλεῖν μήτε νοεῖν θέμις ἡμῖν, ἀλλὰ μηδὲ πιστεύειν εἴ τι τοιοῦτο πώποτε παρὰ ἀνθρώποις ἐγένετο. τούτων δὲ φημισθέντων, πάντες ἀπεθηριώθησαν εἰς ἡμᾶς, ὥστε καὶ εἴ τινες τὸ πρότερον δι’ οἰκειότητα ἐμετρίαζον, τότε μεγάλως ἐχαλέπαινον καὶ διεπρίοντο ἐφ’ ἡμῖν· ἐπληροῦτο δὲ τὸ ὑπὸ τοῦ κυρίου ἡμῶν εἰρημένον ὅτι ἐλεύσεται καιρὸς ἐν ᾧ πᾶς ὁ ἀποκτείνας ὑμᾶς δόξει λατρείαν προσφέρειν τῷ θεῷ.\n\n[5.1.16–17] ἐνταῦθα λοιπὸν ὑπεράνω πάσης ἐξηγήσεως ὑπέμενον κολάσεις οἱ ἅγιοι μάρτυρες, φιλοτιμουμένου τοῦ σατανᾶ καὶ δι’ ἐκείνων ῥηθῆναί τι τῶν βλασφήμων· ὑπερβεβλημένως δὲ ἐνέσκηψεν ἡ ὀργὴ πᾶσα καὶ ὄχλου καὶ ἡγεμόνος καὶ στρατιωτῶν εἰς Σάγκτον τὸν διάκονον ἀπὸ Βιέννης καὶ εἰς Μάτουρον, νεοφώτιστον μέν, ἀλλὰ γενναῖον ἀγωνιστήν, καὶ εἰς Ἄτταλον Περγαμηνὸν τῷ γένει, στῦλον καὶ ἑδραίωμα τῶν ἐνταῦθα ἀεὶ γεγονότα, καὶ εἰς Βλανδῖναν, δι’ ἧς ἐπέδειξεν ὁ Χριστὸς ὅτι τὰ παρὰ ἀνθρώποις εὐτελῆ καὶ ἀειδῆ καὶ εὐκαταφρόνητα φαινόμενα μεγάλης καταξιοῦται παρὰ θεῷ δόξης διὰ τὴν πρὸς αὐτὸν ἀγάπην τὴν ἐν δυνάμει δεικνυμένην καὶ μὴ ἐν εἴδει καυχωμένην.\n\n[5.1.18–19] ἡμῶν γὰρ πάντων δεδιότων καὶ τῆς σαρκίνης δεσποίνης αὐτῆς, ἥτις ἦν καὶ αὐτὴ τῶν μαρτύρων μία ἀγωνίστρια, ἀγωνιώσης μὴ οὐδὲ τὴν ὁμολογίαν δυνήσεται παρρησιάσασθαι διὰ τὸ ἀσθενὲς τοῦ σώματος, ἡ Βλανδῖνα τοσαύτης ἐπληρώθη δυνάμεως, ὥστε ἐκλυθῆναι καὶ παρεθῆναι τοὺς κατὰ διαδοχὰς παντὶ τρόπῳ βασανίζοντας αὐτὴν ἀπὸ ἑωθινῆς ἕως ἑσπέρας, καὶ αὐτοὺς ὁμολογοῦντας ὅτι νενίκηνται μηδὲν ἔχοντες μηκέτι ὃ ποιήσωσιν αὐτῇ, καὶ θαυμάζειν ἐπὶ τῷ παραμένειν ἔμπνουν αὐτήν, παντὸς τοῦ σώματος περιερρωγότος καὶ ἠνεῳγμένου, καὶ μαρτυρεῖν ὅτι ἓν εἶδος στρεβλώσεως ἱκανὸν ἦν πρὸς τὸ ἐξαγαγεῖν τὴν ψυχήν, οὐχ ὅτι γε τοιαῦτα καὶ τοσαῦτα. ἀλλ’ ἡ μακαρία ὡς γενναῖος ἀθλητὴς ἀνενέαζεν ἐν τῇ ὁμολογίᾳ, καὶ ἦν αὐτῆς ἀνάληψις καὶ ἀνάπαυσις καὶ ἀναλγησία τῶν συμβαινόντων τὸ λέγειν ὅτι χριστιανή εἰμι καὶ παρ’ ἡμῖν οὐδὲν φαῦλον γίνεται.\n\n[5.1.20–21] Ὁ δὲ Σάγκτος καὶ αὐτὸς ὑπερβεβλημένως καὶ ὑπὲρ πάντα ἄνθρωπον πάσας τὰς ἐξ ἀνθρώπων αἰκίας γενναίως ὑπομένων, τῶν ἀνόμων ἐλπιζόντων διὰ τὴν ἐπιμονὴν καὶ τὸ μέγεθος τῶν βασάνων ἀκούσεσθαί τι παρ’ αὐτοῦ τῶν μὴ δεόντων, τοσαύτῃ ὑποστάσει ἀντιπαρετάξατο αὐτοῖς, ὥστε μήτε τὸ ἴδιον κατειπεῖν ὄνομα μήτε ἔθνους μήτε πόλεως ὅθεν ἦν, μήτε εἰ δοῦλος ἢ ἐλεύθερος εἴη· ἀλλὰ πρὸς πάντα τὰ ἐπερωτώμενα ἀπεκρίνατο τῇ Ῥωμαϊκῇ φωνῇ Χριστιανός εἰμι· τοῦτο καὶ ἀντὶ ὀνόματος καὶ ἀντὶ πόλεως καὶ ἀντὶ γένους καὶ ἀντὶ παντὸς ἐπαλλήλως ὡμολόγει, ἄλλην δὲ φωνὴν οὐκ ἤκουσαν αὐτοῦ τὰ ἔθνη· ὅθεν δὴ καὶ φιλονεικία μεγάλη τοῦ τε ἡγεμόνος καὶ τῶν βασανιστῶν ἐγένετο πρὸς αὐτόν, ὥστε ὁπότε μηκέτι μηδὲν εἶχον ὃ ποιήσωσιν αὐτῷ, τὸ τελευταῖον χαλκᾶς λεπίδας διαπύρους προσεκόλλων τοῖς τρυφερωτάτοις μέλεσι τοῦ σώματος αὐτοῦ.\n\n[5.1.22–24] καὶ ταῦτα μὲν ἐκαίετο, αὐτὸς δὲ παρέμενεν ἀνεπίκαμπτος καὶ ἀνένδοτος, στερρὸς πρὸς τὴν ὁμολογίαν, ὑπὸ τῆς οὐρανίου πηγῆς τοῦ ὕδατος τῆς ζωῆς τοῦ ἐξιόντος ἐκ τῆς νηδύος τοῦ Χριστοῦ δροσιζόμενος καὶ ἐνδυναμούμενος· τὸ δὲ σωμάτιον μάρτυς ἦν τῶν συμβεβηκότων, ὅλον τραῦμα καὶ μώλωψ καὶ συνεσπασμένον καὶ ἀποβεβληκὸς τὴν ἀνθρώπειον ἔξωθεν μορφήν, ἐν ᾧ πάσχων Χριστὸς μεγάλας ἐπετέλει δόξας, καταργῶν τὸν ἀντικείμενον καὶ εἰς τὴν τῶν λοιπῶν ὑποτύπωσιν ὑποδεικνύων ὅτι μηδὲν φοβερὸν ὅπου πατρὸς ἀγάπη, μηδὲ ἀλγεινὸν ὅπου Χριστοῦ δόξα. τῶν γὰρ ἀνόμων μεθ’ ἡμέρας πάλιν στρεβλούντων τὸν μάρτυρα καὶ νομιζόντων ὅτι οἰδούντων καὶ φλεγμαινόντων τῶν σωμάτων, εἰ τὰ αὐτὰ προσενέγκοιεν κολαστήρια, περιέσοιντο αὐτοῦ, ὁπότε οὐδὲ τὴν ἀπὸ τῶν χειρῶν ἁφὴν ἠνείχετο, ἢ ὅτι ἐναποθανὼν ταῖς βασάνοις φόβον ἐμποιήσειεν τοῖς λοιποῖς, οὐ μόνον οὐδὲν περὶ αὐτὸν τοιοῦτο συνέβη, ἀλλὰ καὶ παρὰ πᾶσαν δόξαν ἀνθρώπων ἀνέκυψεν καὶ ἀνωρθώθη τὸ σωμάτιον ἐν ταῖς μετέπειτα βασάνοις, καὶ τὴν ἰδέαν ἀπέλαβεν τὴν προτέραν καὶ τὴν χρῆσιν τῶν μελῶν, ὥστε μὴ κόλασιν, ἀλλ’ ἴασιν διὰ τῆς χάριτος τοῦ Χριστοῦ τὴν δευτέραν στρέβλωσιν αὐτῷ γενέσθαι.\n\n[5.1.25–26] Καὶ Βιβλίδα δέ, μίαν τῶν ἠρνημένων, ἤδη δοκῶν ὁ διάβολος καταπεπωκέναι, θελήσας δὲ καὶ διὰ βλασφημίας κατακρῖναι, ἦγεν ἐπὶ κόλασιν, ἀναγκάζων εἰπεῖν τὰ ἄθεα περὶ ἡμῶν, ὡς εὔθραυστον ἤδη καὶ ἄνανδρον· ἣ δὲ ἐν τῇ στρεβλώσει ἀνένηψεν καὶ ὡς ἂν εἰπεῖν ἐκ βαθέος ὕπνου ἀνεγρηγόρησεν, ὑπομνησθεῖσα διὰ τῆς προσκαίρου τιμωρίας τὴν αἰώνιον ἐν γεέννῃ κόλασιν, καὶ ἐξ ἐναντίας ἀντεῖπεν τοῖς βλασφήμοις, φήσασα πῶς ἂν παιδία φάγοιεν οἱ τοιοῦτοι, οἷς μηδὲ ἀλόγων ζῴων αἷμα φαγεῖν ἐξόν; καὶ ἀπὸ τοῦδε Χριστιανὴν ἑαυτὴν ὡμολόγει καὶ τῷ κλήρῳ τῶν μαρτύρων προσετέθη.\n\n[5.1.27–28] Καταργηθέντων δὲ τῶν τυραννικῶν κολαστηρίων ὑπὸ τοῦ Χριστοῦ διὰ τῆς τῶν μακαρίων ὑπομονῆς, ἑτέρας μηχανὰς ὁ διάβολος ἐπενόει, τὰς κατὰ τὴν εἱρκτὴν ἐν τῷ σκότει καὶ τῷ χαλεπωτάτῳ χωρίῳ συγκλείσεις καὶ τὰς ἐν τῷ ξύλῳ διατάσεις τῶν ποδῶν, ἐπὶ πέμπτον διατεινομένων τρύπημα, καὶ τὰς λοιπὰς αἰκὶας, ὅσας εἰώθασιν ὀργιζόμενοι ὑπουργοὶ καὶ ταῦτα διαβόλου πλήρεις διατιθέναι τοὺς ἐγκλειομένους· ὥστε ἀποπνιγῆναι τοὺς πλείστους ἐν τῇ εἱρκτῇ, ὅσους γε ὁ κύριος οὕτως ἐξελθεῖν ἠθέλησεν, ἐπιδεικνύων τὴν αὐτοῦ δόξαν. οἱ μὲν γὰρ βασανισθέντες πικρῶς ὥστε δοκεῖν μηδὲ τῆς πάσης θεραπείας τυχόντας ἔτι ζῆσαι δύνασθαι, παρέμενον ἐν τῇ εἱρκτῇ, ἔρημοι μὲν τῆς παρὰ ἀνθρώπων ἐπιμελείας, ἀναρρωννύμενοι δὲ ὑπὸ κυρίου καὶ ἐνδυναμούμενοι καὶ σώματι καὶ ψυχῇ καὶ τοὺς λοιποὺς παρορμῶντες καὶ παραμυθούμενοι· οἱ δὲ νεαροὶ καὶ ἄρτι συνειλημμένοι, ὧν μὴ προκατῄκιστο τὰ σώματα, τὸ βάρος οὐκ ἔφερον τῆς συγκλείσεως, ἀλλ’ ἔνδον ἐναπέθνῃσκον.\n\n[5.1.29–31] Ὁ δὲ μακάριος Ποθεινός, ὁ τὴν διακονίαν τῆς ἐπισκοπῆς ἐν Λουγδούνῳ πεπιστευμένος, ὑπὲρ τὰ ἐνενήκοντα ἔτη τῆς ἡλικίας γεγονὼς καὶ πάνυ ἀσθενὴς τῷ σώματι, μόλις μὲν ἐμπνέων διὰ τὴν προκειμένην σωματικὴν ἀσθένειαν, ὑπὸ δὲ προθυμίας πνεύματος ἀναρρωννύμενος διὰ τὴν ἐγκειμένην τῆς μαρτυρίας ἐπιθυμίαν, καὶ αὐτὸς ἐπὶ τὸ βῆμα ἐσύρετο, τοῦ μὲν σώματος καὶ ὑπὸ τοῦ γήρως καὶ ὑπὸ τῆς νόσου λελυμένου, τηρουμένης δὲ τῆς ψυχῆς ἐν αὐτῷ, ἵνα δι’ αὐτῆς Χριστὸς θριαμβεύσῃ· ὃς ὑπὸ τῶν στρατιωτῶν ἐπὶ τὸ βῆμα κομισθείς, παραπεμπόντων αὐτὸν τῶν πολιτικῶν ἐξουσιῶν καὶ παντὸς τοῦ πλήθους, ἐπιβοήσεις παντοίας ποιουμένων ὡς αὐτοῦ ὄντος τοῦ Χριστοῦ, ἀπεδίδου τὴν καλὴν μαρτυρίαν. ἀνεταζόμενος δὲ ὑπὸ τοῦ ἡγεμόνος τίς εἴη Χριστιανῶν ὁ θεός, ἔφη ἐὰν ᾖς ἄξιος, γνώσῃ· ἐντεῦθεν δὲ ἀφειδῶς ἐσύρετο καὶ ποικίλας ἔπασχε πληγάς, τῶν μὲν σύνεγγυς χερσὶν καὶ ποσὶν ἐνυβριζόντων παντοίως, μηδὲ τὴν ἡλικίαν αἰδουμένων αὐτοῦ, τῶν δὲ μακράν, ὃ μετὰ χεῖρας ἕκαστος εἶχεν, εἰς αὐτὸν ἀκοντιζόντων, πάντων δὲ ἡγουμένων μεγάλως πλημμελεῖν καὶ ἀσεβεῖν, εἴ τις ἀπολειφθείη τῆς εἰς αὐτὸν ἀσελγείας· καὶ γὰρ τοὺς θεοὺς αὐτῶν ᾤοντο οὕτως ἐκδικήσειν. καὶ μόγις ἐμπνέων ἐρρίφη ἐν τῇ εἱρκτῇ καὶ μετὰ δύο ἡμέρας ἀπέψυξεν.\n\n[5.1.32–35] Ἐνταῦθα δὴ μεγάλη τις οἰκονομία θεοῦ ἐγίνετο καὶ ἔλεος ἀμέτρητον ἀνεφαίνετο Ἰησοῦ, σπανίως μὲν ἐν τῇ ἀδελφότητι γεγονός, μὴ ἀπολειπόμενον δὲ τῆς τέχνης Χριστοῦ. οἱ γὰρ κατὰ τὴν πρώτην σύλληψιν ἔξαρνοι γενόμενοι συνεκλείοντο καὶ αὐτοὶ καὶ μετεῖχον τῶν δεινῶν· οὐδὲ γὰρ ἐν τῷ καιρῷ τούτῳ ὄφελός τι αὐτοῖς ἡ ἐξάρνησις ἐγίνετο, ἀλλ’ οἱ μὲν ὁμολογοῦντες ὃ καὶ ἦσαν, συνεκλείοντο ὡς Χριστιανοί, μηδεμιᾶς ἄλλης αἰτίας αὐτοῖς ἐπιφερομένης, οὗτοι δὲ λοιπὸν ὡς ἀνδροφόνοι καὶ μιαροὶ κατείχοντο, διπλότερον παρὰ τοὺς λοιποὺς κολαζόμενοι. ἐκείνους μὲν γὰρ ἐπεκούφιζεν ἡ χαρὰ τῆς μαρτυρίας καὶ ἡ ἐλπὶς τῶν ἐπηγγελμένων καὶ ἡ πρὸς τὸν Χριστὸν ἀγάπη καὶ τὸ πνεῦμα τὸ πατρικόν, τούτους δὲ τὸ συνειδὸς μεγάλως ἐτιμωρεῖτο, ὥστε καὶ παρὰ τοῖς λοιποῖς ἅπασιν κατὰ τὰς παρόδους διαδήλους τὰς ὄψεις αὐτῶν εἶναι. οἳ μὲν γὰρ ἱλαροὶ προῄεσαν, δόξης καὶ χάριτος πολλῆς ταῖς ὄψεσιν αὐτῶν συγκεκραμένης, ὥστε καὶ τὰ δεσμὰ κόσμον εὐπρεπῆ περικεῖσθαι αὐτοῖς, ὡς νύμφῃ κεκοσμημένῃ ἐν κροσσωτοῖς χρυσοῖς πεποικιλμένοις, τὴν εὐωδίαν ὀδωδότες ἅμα τὴν Χριστοῦ, ὥστε ἐνίους δόξαι καὶ μύρῳ κοσμικῷ κεχρῖσθαι αὐτούς· οἳ δὲ κατηφεῖς καὶ ταπεινοὶ καὶ δυσειδεῖς καὶ πάσης ἀσχημοσύνης ἀνάπλεοι, προσέτι δὲ καὶ ὑπὸ τῶν ἐθνῶν ὀνειδιζόμενοι ὡς ἀγεννεῖς καὶ ἄνανδροι, ἀνδροφόνων μὲν ἐγκλήματα ἔχοντες, ἀπολωλεκότες δὲ τὴν πάντιμον καὶ ἔνδοξον καὶ ζωοποιὸν προσηγορίαν. ταῦτα δὴ οἱ λοιποὶ θεωροῦντες ἐστηρίχθησαν, καὶ οἱ συλλαμβανόμενοι ἀδιστάκτως ὡμολόγουν, μηδὲ ἔννοιαν ἔχοντες διαβολικοῦ λογισμοῦ.\n\n[5.1.36] τούτοις μεταξύ τινα ἐπειπόντες, αὖθις ἐπιφέρουσιν· μετὰ ταῦτα δὴ λοιπὸν εἰς πᾶν εἶδος διῃρεῖτο τὰ μαρτύρια τῆς ἐξόδου αὐτῶν. ἐκ διαφόρων γὰρ χρωμάτων καὶ παντοίων ἀνθῶν ἕνα πλέξαντες στέφανον προσήνεγκαν τῷ πατρί· ἐχρῆν δ’ οὖν τοὺς γενναίους ἀθλητὰς ποικίλον ὑπομείναντας ἀγῶνα καὶ μεγάλως νικήσαντας ἀπολαβεῖν τὸν μέγαν τῆς ἀφθαρσίας στέφανον.\n\n[5.1.37–40] ὁ μὲν οὖν Μάτουρος καὶ ὁ Σάγκτος καὶ ἡ Βλανδῖνα καὶ Ἄτταλος ἤγοντο ἐπὶ τὰ θηρία εἰς τὸ δημόσιον καὶ εἰς κοινὸν τῶν ἐθνῶν τῆς ἀπανθρωπίας θέαμα, ἐπίτηδες τῆς τῶν θηριομαχίων ἡμέρας διὰ τοὺς ἡμετέρους διδομένης. καὶ ὁ μὲν Μάτουρος καὶ ὁ Σάγκτος αὖθις διῄεσαν ἐν τῷ ἀμφιθεάτρῳ διὰ πάσης κολάσεως, ὡς μηδὲν ὅλως προπεπονθότες, μάλλον δ’ ὡς διὰ πλειόνων ἤδη κλήρων ἐκβεβιακότες τὸν ἀντίπαλον καὶ περὶ τοῦ στεφάνου αὐτοῦ τὸν ἀγῶνα ἔχοντες, ὑπέφερον πάλιν τὰς διεξόδους τῶν μαστίγων τὰς ἐκεῖσε εἰθισμένας καὶ τοὺς ἀπὸ τῶν θηρίων ἑλκηθμοὺς καὶ πάνθ’ ὅσα μαινόμενος ὁ δῆμος, ἄλλοι ἀλλαχόθεν, ἐπεβόων καὶ ἐπεκελεύοντο, ἐπὶ πᾶσιν τὴν σιδηρᾶν καθέδραν, ἐφ’ ἧς τηγανιζόμενα τὰ σώματα κνίσης αὐτοὺς ἐνεφόρει. οἱ δ’ οὐδ’ οὕτως ἔληγον, ἀλλ’ ἔτι καὶ μᾶλλον ἐξεμαίνοντο, βουλόμενοι νικῆσαι τὴν ἐκείνων ὑπομονήν, καὶ οὐδ’ ὣς παρὰ Σάγκτου ἕτερόν τι εἰσήκουσαν παρ’ ἣν ἀπ’ ἀρχῆς εἴθιστο λέγειν τῆς ὁμολογίας φωνήν. οὗτοι μὲν οὖν, δι’ ἀγῶνος μεγάλου ἐπὶ πολὺ παραμενούσης αὐτῶν τῆς ψυχῆς, τοὔσχατον ἐτύθησαν, διὰ τῆς ἡμέρας ἐκείνης ἀντὶ πάσης τῆς ἐν τοῖς μονομαχίοις ποικιλίας αὐτοὶ θέαμα γενόμενοι τῷ κόσμῳ·\n\n[5.1.41–42] ἡ δὲ Βλανδῖνα ἐπὶ ξύλου κρεμασθεῖσα προύκειτο βορὰ τῶν εἰσβαλλομένων θηρίων· ἣ καὶ διὰ τοῦ βλέπεσθαι σταυροῦ σχήματι κρεμαμένη διὰ τῆς εὐτόνου προσευχῆς πολλὴν προθυμίαν τοῖς ἀγωνιζομένοις ἐνεποίει, βλεπόντων αὐτῶν ἐν τῷ ἀγῶνι καὶ τοῖς ἔξωθεν ὀφθαλμοῖς διὰ τῆς ἀδελφῆς τὸν ὑπὲρ αὐτῶν ἐσταυρωμένον, ἵνα πείσῃ τοὺς πιστεύοντας εἰς αὐτὸν ὅτι πᾶς ὁ ὑπὲρ τῆς Χριστοῦ δόξης παθὼν τὴν κοινωνίαν ἀεὶ ἔχει μετὰ τοῦ ζῶντος θεοῦ. καὶ μηδενὸς ἁψαμένου τότε τῶν θηρίων αὐτῆς, καθαιρεθεῖσα ἀπὸ τοῦ ξύλου ἀνελήφθη πάλιν εἰς τὴν εἱρκτήν, εἰς ἄλλον ἀγῶνα τηρουμένη, ἵνα διὰ πλειόνων γυμνασμάτων νικήσασα, τῷ μὲν σκολιῷ ὄφει ἀπαραίτητον ποιήσῃ τὴν καταδίκην, προτρέψηται δὲ τοὺς ἀδελφούς, ἡ μικρὰ καὶ ἀσθενὴς καὶ εὐκαταφρόνητος μέγαν καὶ ἀκαταγώνιστον ἀθλητὴν Χριστὸν ἐνδεδυμένη, διὰ πολλῶν κλήρων ἐκβιάσασα τὸν ἀντικείμενον καὶ δι’ ἀγῶνος τὸν τῆς ἀφθαρσίας στεψαμένη στέφανον.\n\n[5.1.43–44] Ὁ δὲ Ἄτταλος καὶ αὐτὸς μεγάλως ἐξαιτηθεὶς ὑπὸ τοῦ ὄχλου (καὶ γὰρ ἦν ὀνομαστός), ἕτοιμος εἰσῆλθεν ἀγωνιστὴς διὰ τὸ εὐσυνείδητον, ἐπειδὴ γνησίως ἐν τῇ Χριστιανῇ συντάξει γεγυμνασμένος ἦν καὶ ἀεὶ μάρτυς ἐγεγόνει παρ’ ἡμῖν ἀληθείας. καὶ περιαχθεὶς κύκλῳ τοῦ ἀμφιθεάτρου, πίνακος αὐτὸν προάγοντος ἐν ᾧ ἐγέγραπτο Ῥωμαϊστί οὗτός ἐστιν Ἄτταλος ὁ Χριστιανός, καὶ τοῦ δήμου σφόδρα σφριγῶντος ἐπ’ αὐτῷ, μαθὼν ὁ ἡγεμὼν ὅτι Ῥωμαῖός ἐστιν, ἐκέλευσεν αὐτὸν ἀναληφθῆναι μετὰ καὶ τῶν λοιπῶν τῶν ἐν τῇ εἱρκτῇ ὄντων, περὶ ὧν ἐπέστειλεν τῷ Καίσαρι καὶ περιέμενεν τὴν ἀπόφασιν τὴν ἀπ’ ἐκείνου.\n\n[5.1.45–48] Ὁ δὲ διὰ μέσου καιρὸς οὐκ ἀργὸς αὐτοῖς οὐδὲ ἄκαρπος ἐγίνετο, ἀλλὰ διὰ τῆς ὑπομονῆς αὐτῶν τὸ ἀμέτρητον ἔλεος ἀνεφαίνετο Χριστοῦ· διὰ γὰρ τῶν ζώντων ἐζωοποιοῦντο τὰ νεκρά, καὶ μάρτυρες τοῖς μὴ μάρτυσιν ἐχαρίζοντο, καὶ ἐνεγίνετο πολλὴ χαρὰ τῇ παρθένῳ μητρί, οὓς ὡς νεκροὺς ἐξέτρωσε, τούτους ζῶντας ἀπολαμβανούσῃ. δι’ ἐκείνων γὰρ οἱ πλείους τῶν ἠρνημένων ἀνεμετροῦντο καὶ ἀνεκυΐσκοντο καὶ ἀνεζωπυροῦντο καὶ ἐμάνθανον ὁμολογεῖν καὶ ζῶντες ἤδη καὶ τετονωμένοι προσῄεσαν τῷ βήματι, ἐγγλυκαίνοντος τοῦ τὸν μὲν θάνατον τοῦ ἁμαρτωλοῦ μὴ βουλομένου, ἐπὶ δὲ τὴν μετάνοιαν χρηστευομένου θεοῦ, ἵνα καὶ πάλιν ἐπερωτηθῶσιν ὑπὸ τοῦ ἡγεμόνος. ἐπιστείλαντος γὰρ τοῦ Καίσαρος τοὺς μὲν ἀποτυμπανισθῆναι, εἰ δέ τινες ἀρνοῖντο, τούτους ἀπολυθῆναι, τῆς ἐνθάδε πανηγύρεως (ἔστιν δὲ αὕτη πολυάνθρωπος ἐκ πάντων τῶν ἐθνῶν συνερχομένων εἰς αὐτήν) ἀρχομένης συνεστάναι, ἀνῆγεν ἐπὶ τὸ βῆμα θεατρίζων τοὺς μακαρίους καὶ ἐμπομπεύων τοῖς ὄχλοις· δι’ ὃ καὶ πάλιν ἀνήταζεν, καὶ ὅσοι μὲν ἐδόκουν πολιτείαν Ῥωμαίων ἐσχηκέναι, τούτων ἀπέτεμνε τὰς κεφαλάς, τοὺς δὲ λοιποὺς ἔπεμπεν εἰς θηρία. ἐδοξάζετο δὲ μεγάλως ὁ Χριστὸς ἐπὶ τοῖς πρότερον ἀρνησαμένοις, τότε παρὰ τὴν τῶν ἐθνῶν ὑπόνοιαν ὁμολογοῦσιν. καὶ γὰρ ἰδίᾳ οὗτοι ἀνητάζοντο ὡς δῆθεν ἀπολυθησόμενοι, καὶ ὁμολογοῦντες προσετίθεντο τῷ τῶν μαρτύρων κλήρῳ· ἔμειναν δὲ ἔξω οἱ μηδὲ ἴχνος πώποτε πίστεως μηδὲ αἴσθησιν ἐνδύματος νυμφικοῦ μηδὲ ἔννοιαν φόβου θεοῦ σχόντες, ἀλλὰ καὶ διὰ τῆς ἀναστροφῆς αὐτῶν βλασφημοῦντες τὴν ὁδόν, τοῦτ’ ἐστὶν οἱ υἱοὶ τῆς ἀπωλείας, οἱ δὲ λοιποὶ πάντες τῇ ἐκκλησίᾳ προσετέθησαν·\n\n[5.1.49–51] ὧν καὶ ἀνεταζομένων, Ἀλέξανδρός τις, Φρὺξ μὲν τὸ γένος, ἰατρὸς δὲ τὴν ἐπιστήμην, πολλοῖς ἔτεσιν ἐν ταῖς Γαλλίαις διατρίψας καὶ γνωστὸς σχεδὸν πᾶσιν διὰ τὴν πρὸς θεὸν ἀγάπην καὶ παρρησίαν τοῦ λόγου (ἦν γὰρ καὶ οὐκ ἄμοιρος ἀποστολικοῦ χαρίσματος), παρεστὼς τῷ βήματι καὶ νεύματι προτρέπων αὐτοὺς πρὸς τὴν ὁμολογίαν, φανερὸς ἦν τοῖς περιεστηκόσιν τὸ βῆμα ὥσπερ ὠδίνων. ἀγανακτήσαντες δὲ οἱ ὄχλοι ἐπὶ τῷ τοὺς πρότερον ἠρνημένους αὖθις ὁμολογεῖν, κατεβόησαν τοῦ Ἀλεξάνδρου ὡς ἐκείνου τοῦτο ποιοῦντος, καὶ ἐπιστήσαντος τοῦ ἡγεμόνος καὶ ἀνετάσαντος αὐτὸν τίς εἴη, τοῦ δὲ φήσαντος ὅτι Χριστιανός, ἐν ὀργῇ γενόμενος κατέκρινεν αὐτὸν πρὸς θηρία. καὶ τῇ ἐπιούσῃ εἰσῆλθεν μετὰ καὶ τοῦ Ἀττάλου, καὶ γὰρ καὶ τὸν Ἄτταλον τῷ ὄχλῳ χαριζόμενος ὁ ἡγεμὼν ἐξέδωκε πάλιν πρὸς θηρία· οἳ καὶ διὰ πάντων διελθόντες τῶν ἐν τῷ ἀμφιθεάτρῳ πρὸς κόλασιν ἐξηυρημένων ὀργάνων καὶ μέγιστον ὑπομείναντες ἀγῶνα, τοὔσχατον ἐτύθησαν καὶ αὐτοί, τοῦ μὲν Ἀλεξάνδρου μήτε στενάξαντος μήτε γρύξαντός τι ὅλως, ἀλλὰ κατὰ καρδίαν ὁμιλοῦντος τῷ θεῷ,\n\n[5.1.52] ὁ δὲ Ἄτταλος, ὁπότε ἐπὶ τῆς σιδηρᾶς ἐπετέθη καθέδρας καὶ περιεκαίετο, ἡνίκα ἡ ἀπὸ τοῦ σώματος κνῖσα ἀνεφέρετο, ἔφη πρὸς τὸ πλῆθος τῇ Ῥωμαϊκῇ φωνῇ ἰδοὺ τοῦτό ἐστιν ἀνθρώπους ἐσθίειν, ὃ ποιεῖτε ὑμεῖς· ἡμεῖς δὲ οὔτε ἀνθρώπους ἐσθίομεν οὔθ’ ἕτερόν τι πονηρὸν πράσσομεν. ἐπερωτώμενος δὲ τί ὄνομα ἔχει ὁ θεός, ἀπεκρίθη ὁ θεὸς ὄνομα οὐκ ἔχει ὡς ἄνθρωπος.\n\n[5.1.53–55] Ἐπὶ πᾶσι δὲ τούτοις τῇ ἐσχάτῃ λοιπὸν ἡμέρᾳ τῶν μονομαχίων ἡ Βλανδῖνα πάλιν εἰσεκομίζετο μετὰ καὶ Ποντικοῦ, παιδαρίου ὡς πεντεκαίδεκα ἐτῶν, οἳ καὶ καθ’ ἡμέραν εἰσήγοντο πρὸς τὸ βλέπειν τὴν τῶν λοιπῶν κόλασιν· καὶ ἠναγκάζοντο ὀμνύναι κατὰ τῶν εἰδώλων αὐτῶν, καὶ διὰ τὸ ἐμμένειν εὐσταθῶς καὶ ἐξουθενεῖν αὐτοὺς ἠγριώθη πρὸς αὐτοὺς τὸ πλῆθος, ὡς μήτε τὴν ἡλικίαν τοῦ παιδὸς οἰκτεῖραι μήτε τὸ γύναιον αἰδεσθῆναι, πρὸς πάντα δὲ τὰ δεινὰ παρέβαλλον αὐτοὺς καὶ διὰ πάσης ἐν κύκλῳ διῆγον κολάσεως, ἐπαλλήλως ἀναγκάζοντες ὀμόσαι, ἀλλὰ μὴ δυνάμενοι τοῦτο πρᾶξαι. ὁ μὲν γὰρ Ποντικὸς ὑπὸ τῆς ἀδελφῆς παρωρμημένος, ὡς καὶ τὰ ἔθνη βλέπειν ὅτι ἐκείνη ἦν προτρεπομένη καὶ στηρίζουσα αὐτόν, πᾶσαν κόλασιν γενναίως ὑπομείνας ἀπέδωκεν τὸ πνεῦμα· ἡ δὲ μακαρία Βλανδῖνα πάντων ἐσχάτη, καθάπερ μήτηρ εὐγενὴς παρορμήσασα τὰ τέκνα καὶ νικηφόρους προπέμψασα πρὸς τὸν βασιλέα, ἀναμετρουμένη καὶ αὐτὴ πάντα τὰ τῶν παίδων ἀγωνίσματα ἔσπευδεν πρὸς αὐτούς, χαίρουσα καὶ ἀγαλλιωμένη ἐπὶ τῇ ἐξόδῳ, ὡς εἰς νυμφικὸν δεῖπνον κεκλημένη, ἀλλὰ μὴ πρὸς θηρία βεβλημένη·\n\n[5.1.56] καὶ μετὰ τὰς μάστιγας, μετὰ τὰ θηρία, μετὰ τὸ τήγανον, τοὔσχατον εἰς γυργαθὸν βληθεῖσα ταύρῳ παρεβλήθη, καὶ ἱκανῶς ἀναβληθεῖσα πρὸς τοῦ ζῴου μηδὲ αἴσθησιν ἔτι τῶν συμβαινόντων ἔχουσα διὰ τὴν ἐλπίδα καὶ ἐποχὴν τῶν πεπιστευμένων καὶ ὁμιλίαν πρὸς Χριστόν, ἐτύθη καὶ αὐτή, καὶ αὐτῶν ὁμολογούντων τῶν ἐθνῶν ὅτι μηδεπώποτε παρ’ αὐτοῖς γυνὴ τοιαῦτα καὶ τοσαῦτα ἔπαθεν.\n\n[5.1.57–58] Ἀλλ’ οὐδ’ οὕτως κόρον ἐλάμβανεν αὐτῶν ἡ μανία καὶ ἡ πρὸς τοὺς ἁγίους ὠμότης. ὑπὸ γὰρ ἀγρίου θηρὸς ἄγρια καὶ βάρβαρα φῦλα ταραχθέντα δυσπαύστως εἶχεν, καὶ ἄλλην ἰδίαν ἀρχὴν ἐπὶ τοῖς σώμασιν ἐλάμβανεν ἡ ὕβρις αὐτῶν· τὸ γὰρ νενικῆσθαι αὐτοὺς οὐκ ἐδυσώπει διὰ τὸ μὴ ἔχειν ἀνθρώπινον ἐπιλογισμόν, μᾶλλον δὲ καὶ ἐξέκαιεν αὐτῶν τὴν ὀργὴν καθάπερ θηρίου, καὶ τοῦ ἡγεμόνος καὶ τοῦ δήμου τὸ ὅμοιον εἰς ἡμᾶς ἄδικον ἐπιδεικνυμένων μῖσος, ἵνα ἡ γραφὴ πληρωθῇ ὁ ἄνομος ἀνομησάτω ἔτι, καὶ ὁ δίκαιος δικαιωθήτω ἔτι.\n\n[5.1.59–61] καὶ γὰρ τοὺς ἐναποπνιγέντας τῇ εἱρκτῇ παρέβαλλον κυσίν, ἐπιμελῶς παραφυλάσσοντες νύκτωρ καὶ μεθ’ ἡμέραν μὴ κηδευθῇ τις ὑφ’ ἡμῶν· καὶ τότε δὴ προθέντες τά τε τῶν θηρίων τά τε τοῦ πυρὸς λείψανα, πῇ μὲν ἐσπαραγμένα, πῇ δὲ ἠνθρακευμένα, καὶ τῶν λοιπῶν τὰς κεφαλὰς σὺν τοῖς ἀποτμήμασιν αὐτῶν ὡσαύτως ἀτάφους παρεφύλαττον μετὰ στρατιωτικῆς ἐπιμελείας ἡμέραις συχναῖς. καὶ οἱ μὲν ἐνεβριμοῦντο καὶ ἔβρυχον τοὺς ὀδόντας ἐπ’ αὐτοῖς, ζητοῦντές τινα περισσοτέραν ἐκδίκησιν παρ’ αὐτῶν λαβεῖν, οἱ δὲ ἐνεγέλων καὶ ἐπετώθαζον, μεγαλύνοντες ἅμα τὰ εἴδωλα αὐτῶν καὶ ἐκείνοις προσάπτοντες τὴν τούτων τιμωρίαν, οἱ δὲ ἐπιεικέστεροι καὶ κατὰ ποσὸν συμπαθεῖν δοκοῦντες ὠνείδιζον πολύ, λέγοντες ποῦ ὁ θεὸς αὐτῶν καὶ τί αὐτοὺς ὤνησεν ἡ θρῃσκεία, ἣν καὶ πρὸ τῆς ἑαυτῶν εἵλαντο ψυχῆς; καὶ τὰ μὲν ἀπ’ ἐκείνων τοιαύτην εἶχε τὴν ποικιλίαν, τὰ δὲ καθ’ ἡμᾶς ἐν μεγάλῳ καθειστήκει πένθει διὰ τὸ μὴ δύνασθαι τὰ σώματα κρύψαι τῇ γῇ· οὔτε γὰρ νὺξ συνεβάλλετο ἡμῖν. πρὸς τοῦτο οὔτε ἀργύρια ἔπειθεν οὔτε λιτανεία ἐδυσώπει, παντὶ δὲ τρόπῳ παρετήρουν, ὡς μέγα τι κερδανοῦντες, εἰ μὴ τύχοιεν ταφῆς.\n\n[5.1.62–63] Τούτοις ἑξῆς μεθ’ ἕτερά φασιν· τὰ οὖν σώματα τῶν μαρτύρων παντοίως παραδειγματισθέντα καὶ αἰθριασθέντα ἐπὶ ἡμέρας ἕξ, μετέπειτα καέντα καὶ αἰθαλωθέντα ὑπὸ τῶν ἀνόμων κατεσαρώθη εἰς τὸν Ῥοδανὸν ποταμὸν πλησίον παραρρέοντα, ὅπως μηδὲ λείψανον αὐτῶν φαίνηται ἐπὶ τῆς γῆς ἔτι. καὶ ταῦτ’ ἔπραττον ὡς δυνάμενοι νικῆσαι τὸν θεὸν καὶ ἀφελέσθαι αὐτῶν τὴν παλιγγενεσίαν, ἵνα, ὡς ἔλεγον ἐκεῖνοι, μηδὲ ἐλπίδα σχῶσιν ἀναστάσεως, ἐφ’ ᾗ πεποιθότες ξένην τινὰ καὶ καινὴν εἰσάγουσιν ἡμῖν θρῃσκείαν καὶ καταφρονοῦσι τῶν δεινῶν, ἕτοιμοι καὶ μετὰ χαρᾶς ἥκοντες ἐπὶ τὸν θάνατον· νῦν ἴδωμεν εἰ ἀναστήσονται καὶ εἰ δύναται βοηθῆσαι αὐτοῖς ὁ θεὸς αὐτῶν καὶ ἐξελέσθαι ἐκ τῶν χειρῶν ἡμῶν.",
     "tags": [
-      "slavery",
+      "enslaved woman",
       "torture",
       "witnessed death",
       "spectacle",
@@ -779,12 +815,17 @@ const CORPUS = [
       "composure",
       "mob violence",
       "posthumous vindication",
-      "execution"
+      "execution",
+      "athletic imagery",
+      "prison",
+      "martyr narrative",
+      "epistolary",
+      "immortality",
+      "imitation of Christ"
     ],
     "genre": "Martyr narrative",
     "storyGroup": "blandina",
     "authorityChallenged": "Roman persecution under Marcus Aurelius",
-    "agency": "High",
     "witnesses": "Amphitheater crowd at Lyon, fellow prisoners",
     "sourceLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.1?right=perseus-grc2"
   }

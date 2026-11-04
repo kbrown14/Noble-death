@@ -3,7 +3,7 @@ const TAG_CATEGORIES = {
   "Role": [
     "daughter",
     "wife",
-    "motherhood",
+    "mother",
     "virginity",
     "youth",
     "compounded marginality",
@@ -11,7 +11,9 @@ const TAG_CATEGORIES = {
     "royal dignity",
     "gender transformation",
     "childbirth",
-    "slavery"
+    "enslaved woman",
+    "freedwoman",
+    "well-born"
   ],
   "Death": [
     "suicide",
@@ -80,7 +82,9 @@ const TAG_CATEGORIES = {
     "maternal exhortation",
     "final plea",
     "immortality",
-    "athleticism",
+    "athletic imagery",
+    "maternal separation",
+    "imitation of Christ",
     "martyr narrative",
     "first-person diary",
     "visions",
