@@ -32,8 +32,8 @@ than data supplied by the sources.
 
 The corpus currently contains 20 passages: 6 Second Temple Jewish, 11 Roman,
 and 3 early Christian; 9 in Greek and 11 in Latin. They were composed between
-c. 110 BCE (2 Maccabees) and c. 203 CE (*Passio Perpetuae*). There are 78
-distinct tags, with 7 to 26 per entry.
+c. 110 BCE (2 Maccabees) and c. 203 CE (*Passio Perpetuae*). There are 82
+distinct tags, with 10 to 31 per entry.
 
 | Entry | Source | Language | Tradition |
 |---|---|---|---|
@@ -55,7 +55,7 @@ distinct tags, with 7 to 26 per entry.
 | The Sacrifice of Polyxena | Ovid, *Met.* 13.439–480 | Latin | Roman |
 | The Death of Epicharis | Tacitus, *Ann.* 15.51, 15.57 | Latin | Roman |
 | The Martyrdom of Perpetua | *Passio Perpetuae et Felicitatis* 2–6, 10, 16–18, 20–21 | Latin | Early Christian |
-| The Martyrdom of Felicitas | *Passio Perpetuae et Felicitatis* 15, 18, 20–21 | Latin | Early Christian |
+| The Martyrdom of Felicitas | *Passio Perpetuae et Felicitatis* 2, 15, 18, 20–21 | Latin | Early Christian |
 | The Martyrdom of Blandina | Letter of the Churches of Vienne and Lyons (Eusebius, *HE* 5.1) | Greek | Early Christian |
 
 Lucretia appears in three sources; Arria, Porcia, Cleopatra, Jephthah's
@@ -84,16 +84,43 @@ and the comparative fields are classifications made for this corpus.
 supports it (an explicit comparison, a named object or event, a repeated
 formulation, clearly represented conduct), not because a theme seems
 adjacent. For display, tags are grouped into six categories in
-`data/taxonomy.js`; the grouping affects display only. Seventeen tags
+`data/taxonomy.js`; the grouping affects display only. Thirteen tags
 currently occur once, which reflects the size of the corpus rather than a
 claim that the motif is unique.
 
-**Comparative fields.** Agency (High, Medium, Low) records how far the
-narrative presents the woman as directing, accepting, resisting, or shaping
-her death; it is comparative within the corpus and follows the source where
-the source itself is uncertain. Authority challenged names the concrete ruler,
+**Comparative fields.** Authority challenged names the concrete ruler,
 regime, office, or family structure involved rather than a broad abstraction.
 Witnesses records who the narrative places at the death.
+
+**Tag definitions.** Where tags could overlap, they are applied by these rules:
+
+- *suicide*: she kills herself, by any means (including self-immolation).
+- *voluntary death*: she willingly accepts a death inflicted by others;
+  distinct from suicide.
+- *witnessed death*: the narrative places others present at her death.
+- *spectacle*: her death or body is publicly staged or displayed.
+- *family death*: the deaths of family members occur in the same episode.
+- *mother, wife, daughter*: her kinship role is stated in the passage;
+  maternal virtue, spousal devotion, and filial devotion describe her conduct
+  in that role, and maternal love the affection between mother and child.
+- *immortality*: the passage voices hope of life after death or resurrection.
+- *imitation of Christ*: the passage identifies her suffering with Christ's.
+- *disputed tradition*: the passage itself signals uncertainty about how she
+  died.
+- *martyr narrative*: the passage narrates a death for refusing to abandon
+  one's religion, Jewish or Christian.
+- *well-born*: the passage states her respectable or high birth; it does not
+  by itself imply aristocratic rank.
+- *genre and context tags*: historiography, poetry, epistolary, rhetoric, and
+  Second Temple Judaism follow each entry's Genre and Tradition fields.
+
+**Compounded marginality.** This tag marks a woman whom the narrative places
+in more than one subordinate position at once, so that her gender combines
+with another status that further limits her protection or her voice: youth and
+unmarried daughterhood under a father's authority, captivity, enslavement, or
+freed status. It is applied only where the passage itself draws attention to
+that combination, not on the basis of what is known about the woman from other
+sources.
 
 **Indictment and affirmation.** Many notes describe a death as working two
 ways: diagnostically, exposing the failure of a ruler, regime, father, or the
@@ -120,13 +147,14 @@ modern editions and Magnus prints *nunc captiva*).
 - **Texts:** all entries as cards, with keyword search over author, title,
   reference, and tags; filters by tradition, mode of death, genre, and tag;
   and sorting by date, author, or title.
-- **Entry view:** reference, edition, analytical note, grouped tags, the text
+- **Entry view:** reference, edition, analytical note, comparative fields
+  (authority challenged, witnesses), grouped tags, the text
   in Translation, Original, or Parallel view, links to other versions of the
   same story, and a link to an online text.
 - **Text Search:** searches the Greek and Latin directly, showing the number
   of matches per passage and up to three highlighted excerpts.
 - **Compare:** up to five entries side by side on date, genre, mode of death,
-  authority challenged, agency, witnesses, and tags, with the tags they share
+  authority challenged, witnesses, and tags, with the tags they share
   and the tags unique to each.
 - **Network:** passages linked by tag similarity, with a minimum-similarity
   slider, a same- or cross-tradition filter, and an option to hide versions
@@ -190,18 +218,18 @@ the proportion of overlap rather than a raw count, so two passages sharing
 six of eight tags score higher than two sharing six of thirty, and an entry
 with many tags does not link strongly to everything for that reason alone.
 
-Of the 190 possible pairs, 172 share at least one tag. The strongest link is
-between Livy and Ovid on Lucretia (0.74). At the default threshold of 6%, 145
+Of the 190 possible pairs, 182 share at least one tag. The strongest link is
+between Livy and Ovid on Lucretia (0.79). At the default threshold of 6%, 162
 links are shown. Line thickness is proportional to the score; hovering over a
 line shows the score, and clicking it lists the shared tags.
 
 The minimum-similarity slider (0 to 50%) hides weak links, most of which rest
-on the commonest tags: resolve (14 entries), courage (11), suicide and
-witnessed death (10 each), and feminine virtue, tyranny, and honor vs. shame
-(9 each). "Hide same-story parallels" removes links between versions of the
-same story (entries with the same `storyGroup`), so that likeness of plot does
-not obscure likeness across stories. The tradition filter shows links within
-one tradition or only between traditions.
+on the commonest tags: resolve and witnessed death (14 entries each), courage
+(12), suicide (11), and honor vs. shame (10). "Hide same-story parallels"
+removes links between versions of the same story (entries with the same
+`storyGroup`), so that likeness of plot does not obscure likeness across
+stories. The tradition filter shows links within one tradition or only between
+traditions.
 
 Positions in the graph come from a force simulation that pulls strongly
 linked passages together. Clusters are meaningful; exact position and
@@ -288,7 +316,6 @@ Each entry in `data/corpus.js` has these fields:
 | `setting`, `settingYear` | Narrative setting in words, and as a year. |
 | `summary` | The analytical note. |
 | `tags` | List of analytical tags. |
-| `agency` | `"High"`, `"Medium"`, or `"Low"`. |
 | `authorityChallenged`, `witnesses` | Comparative fields. |
 | `storyGroup` | Optional. Shared by versions of the same story (for example `"lucretia"`). |
 | `sourceLink` | Optional. Link to an online text. |
@@ -337,4 +364,4 @@ Brown. For permission to reuse them, please contact the editor.
 ## Citation
 
 Brown, Katie, ed. and trans. *Women's Noble Death and Martyrdom in Antiquity:
-A Digital Corpus*. Version 1.0. 2026. [URL].
+A Digital Corpus*. Version 1.0. 2026. https://exitusfeminarum.org/.

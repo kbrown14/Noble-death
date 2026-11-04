@@ -84,6 +84,8 @@
   .prose h2{font-family:var(--serif); font-size:26px; font-weight:500; margin:0 0 6px;}
   .prose p{font-size:14px; line-height:1.7; margin:0 0 20px;}
   .prose p:last-child{margin-bottom:0;}
+  .prose ul{font-size:14px; line-height:1.7; margin:-8px 0 20px; padding-left:20px;}
+  .prose li{margin-bottom:4px;}
   .prose .lede{font-size:14.5px; color:var(--ink-muted); margin-bottom:24px;}
   .prose .lede.lede-tight{margin-bottom:10px;}
   .prose .project-note{font-size:13.5px; color:var(--ink-muted); font-style:italic; margin-bottom:24px;}
@@ -149,6 +151,9 @@
   .modal-datelines > div{display:flex; flex-direction:column;}
   .modal-datelines dt{margin-bottom:2px;}
   .modal-datelines dd{margin:0; font-size:13.5px;}
+  .modal-fields{display:grid; grid-template-columns:max-content 1fr; gap:6px 18px; margin:0 0 4px; font-size:13.5px;}
+  .modal-fields dt{font-weight:600;}
+  .modal-fields dd{margin:0;}
   .modal-compare-btn{font-family:var(--mono); font-size:11.5px; letter-spacing:0.03em; border:1px solid var(--accent); background:var(--card); color:var(--accent-deep); padding:8px 14px; border-radius:2px; cursor:pointer;}
   .modal-compare-btn:hover{background:var(--accent-tint);}
   .modal-compare-btn.active{background:var(--accent); color:var(--card);}
@@ -370,20 +375,35 @@
 
       <div class="section-label">Source description and analytical interpretation</div>
       <p>The corpus distinguishes as clearly as possible between the ancient source and the analytical framework applied to it. The <em>Text</em> section, including its Original, Translation, and Parallel views, presents the ancient passage itself. The <em>Analytical note</em> offers the corpus editor's interpretation of the passage's significance and should be read as an analytical claim rather than as a statement of authorial intention.</p>
-      <p>The <em>Key themes</em> tags and the comparative fields—such as Agency, Authority challenged, and Witnesses—are likewise analytical classifications created for this corpus rather than categories supplied by the ancient texts themselves. Where an analytical note paraphrases an argument made explicitly by the source—for example, 4 Maccabees' presentation of endurance as the triumph of devout reason over passion—the wording identifies that claim as belonging to the ancient text. Other interpretive statements represent the corpus editor's synthesis.</p>
+      <p>The <em>Key themes</em> tags and the comparative fields—Authority challenged and Witnesses—are likewise analytical classifications created for this corpus rather than categories supplied by the ancient texts themselves. Where an analytical note paraphrases an argument made explicitly by the source—for example, 4 Maccabees' presentation of endurance as the triumph of devout reason over passion—the wording identifies that claim as belonging to the ancient text. Other interpretive statements represent the corpus editor's synthesis.</p>
 
       <div class="section-label">Tags</div>
       <p>Tags are analytical descriptors developed for this corpus rather than terms drawn from an external controlled vocabulary. They identify recurring themes, motifs, objects, rhetorical strategies, social roles, and forms of action that permit comparison across otherwise disparate passages.</p>
       <p>A tag is assigned only where it is supported by the language or action of the passage itself—for example, through an explicit comparison, a named object or event, a repeated rhetorical formulation, or a clearly represented form of conduct. Tags are not assigned solely because a concept appears thematically adjacent to the passage.</p>
       <p>Most tags occur in more than one entry so that they can function comparatively in the Texts filters and Network view. A small number remain unique to a single passage where the corpus currently contains no genuine parallel. Such one-off tags reflect the present scale of the corpus and may acquire additional instances as the collection expands.</p>
 
+      <div class="section-label">Tag definitions</div>
+      <p>Where tags could overlap, they are applied by these rules:</p>
+      <ul>
+        <li><em>suicide</em>: she kills herself, by any means (including self-immolation).</li>
+        <li><em>voluntary death</em>: she willingly accepts a death inflicted by others; distinct from suicide.</li>
+        <li><em>witnessed death</em>: the narrative places others present at her death.</li>
+        <li><em>spectacle</em>: her death or body is publicly staged or displayed.</li>
+        <li><em>family death</em>: the deaths of family members occur in the same episode.</li>
+        <li><em>mother, wife, daughter</em>: her kinship role is stated in the passage; maternal virtue, spousal devotion, and filial devotion describe her conduct in that role, and maternal love the affection between mother and child.</li>
+        <li><em>immortality</em>: the passage voices hope of life after death or resurrection.</li>
+        <li><em>imitation of Christ</em>: the passage identifies her suffering with Christ's.</li>
+        <li><em>disputed tradition</em>: the passage itself signals uncertainty about how she died.</li>
+        <li><em>martyr narrative</em>: the passage narrates a death for refusing to abandon one's religion, Jewish or Christian.</li>
+        <li><em>well-born</em>: the passage states her respectable or high birth; it does not by itself imply aristocratic rank.</li>
+        <li><em>genre and context tags</em>: historiography, poetry, epistolary, rhetoric, and Second Temple Judaism follow each entry's Genre and Tradition fields.</li>
+      </ul>
+
+      <div class="section-label">Compounded marginality</div>
+      <p><em>Compounded marginality</em> marks a woman whom the narrative places in more than one subordinate position at once, so that her gender combines with another status that further limits her protection or her voice: youth and unmarried daughterhood under a father's authority, captivity, enslavement, or freed status. The tag is applied only where the passage itself draws attention to that combination, not on the basis of what is known about the woman from other sources.</p>
+
       <div class="section-label">Indictment and affirmation</div>
       <p>Many analytical notes describe a woman's death as working in two directions at once. In its <em>diagnostic</em> function, the death exposes and indicts a failure—of a ruler, a regime, a father, or the men around her who would not or could not act as she did. In its <em>affirmative</em> function, the same death vindicates a value or a community: chastity, libertas, Torah fidelity, Christian confession. The two functions are often present together, but their balance varies, and the notes indicate where one predominates or is largely absent.</p>
-
-      <div class="section-label">Agency</div>
-      <p>Agency describes the degree to which a narrative presents the woman as directing, consenting to, resisting, negotiating, or rhetorically shaping the circumstances of her death. The values are comparative within this corpus rather than absolute judgments about historical agency.</p>
-      <p>A High rating indicates that the text presents the woman as substantially shaping the scene—for example, by choosing the means, timing, or terms of her death, explicitly accepting it, resisting attempts to prevent it, or determining how others are to respond. A Low rating indicates that the woman is presented primarily as the object of another person's or institution's decision, with little or no reported resistance, negotiation, or self-direction. Intermediate cases are marked Medium.</p>
-      <p>Where an ancient source itself expresses uncertainty about the circumstances of a death, the rating follows that uncertainty rather than attempting to resolve it.</p>
 
       <div class="section-label">Authority challenged</div>
       <p>Authority challenged identifies the specific ruler, regime, office, familial structure, or other form of authority against which the passage positions the woman, or to which it subjects her. The category is intentionally concrete: it identifies, for example, a named emperor, a monarchy, a conquering power, or a father's vow rather than imposing broader abstractions such as "patriarchy" or "empire" where the source itself does not require them.</p>
@@ -419,6 +439,15 @@
 <div class="overlay" id="overlay"><div class="modal" id="modalContent" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1"></div></div>
 <div class="network-tooltip" id="networkTooltip" role="tooltip"></div>
 
+<script>
+if (typeof CORPUS === 'undefined' || typeof TAG_CATEGORIES === 'undefined') {
+  document.body.innerHTML = '<div style="max-width:620px;margin:60px auto;padding:0 16px;font:16px/1.6 system-ui,sans-serif;color:#1f2a24">'
+    + '<h1 style="font-size:22px">The corpus data could not be loaded</h1>'
+    + '<p>This page needs the <code>data</code> folder (<code>corpus.js</code> and <code>taxonomy.js</code>) in the same folder as <code>index.html</code>.</p>'
+    + '<p>If you opened the site from a .zip file, extract the whole folder first, then open <code>index.html</code> from the extracted folder.</p></div>';
+  throw new Error('Corpus data files not found next to index.html');
+}
+</script>
 <script>
 function cssVar(name){
   return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
@@ -492,6 +521,12 @@ function entryDetailHTML(entry){
 
     <div class="section-label section-label-spaced">Analytical note</div>
     <p class="modal-summary">${entry.summary}</p>
+
+    <div class="section-label">Comparative fields</div>
+    <dl class="modal-fields">
+      ${entry.authorityChallenged ? `<dt>Authority challenged</dt><dd>${entry.authorityChallenged}</dd>` : ''}
+      ${entry.witnesses ? `<dt>Witnesses</dt><dd>${entry.witnesses}</dd>` : ''}
+    </dl>
 
     <div class="section-label">Key themes</div>
     <div class="key-themes">
@@ -1029,7 +1064,6 @@ const COMPARE_ROWS = [
   { label: 'Genre', get: e => e.genre },
   { label: 'Death', get: e => e.deathMode },
   { label: 'Authority challenged', get: e => e.authorityChallenged },
-  { label: 'Agency', get: e => e.agency },
   { label: 'Witnesses', get: e => e.witnesses },
   { label: 'Major tags', get: e => e.tags.slice(0, 6).join(', ') + (e.tags.length > 6 ? '…' : '') },
 ];
